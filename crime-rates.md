@@ -4,4 +4,5 @@ title: Crime Rates
 ---
 
 # Crime Rates
-Here you can explore data and visualizations about crime rates.
+
+<iframe src="/crime_rates_plotly.html" width="100%" height="600" frameborder="0"></iframe>
