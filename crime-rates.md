@@ -3,7 +3,7 @@ layout: default
 title: Crime Rates
 ---
 
-# Crime Rates
+# Crime Rates in Danish Municipalities
 
 This page gives an overview of crime rates in Danish municipalities from 2008 to 2024.
 
@@ -17,7 +17,7 @@ The visualizations are interactive to make it easier to compare and spot trends.
 This chart shows the five municipalities in Denmark with the highest and lowest average crime rates from 2008 to 2024.
 
 - **Top 5**: Lolland, Brøndby, Guldborgsund, Ishøj, and Odense.
--**Bottom 5**: Odder, Skanderborg, Hørsholm, Fanø, and Christiansø.
+- **Bottom 5**: Odder, Skanderborg, Hørsholm, Fanø, and Christiansø.
 Crime rates are measured per 10,000 residents.
 
 
