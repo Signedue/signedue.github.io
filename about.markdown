@@ -1,7 +1,6 @@
 ---
 layout: page
-#combined crime income and education
-title: Combined 
+title: Combined
 permalink: /about/
 ---
 
