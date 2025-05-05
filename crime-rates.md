@@ -36,3 +36,19 @@ The crime trends in the municipalities with the lowest average crime rates we se
 Christiansø remains at the lowest point - zero incidents, throughout the whole period. 
 Fanø is the municipality with the most variations as we see that it ranges from 0 to 12 incidents throuout the years
 <iframe src="/crime_timeseries_bottom5.html" width="100%" height="650" frameborder="0"></iframe>
+
+
+## Crime Rate Volatility – Top vs Bottom 5
+
+Some municipalities show more stable crime levels year over year, while others experience larger fluctuations. To measure this, we calculate the **standard deviation** of the crime rate from 2008 to 2024.
+
+A high value indicates greater yearly variation, while a low value means crime levels have been relatively consistent.
+
+<iframe src="/crime_volatility_top_bottom.html" width="100%" height="600" frameborder="0"></iframe>
+
+
+The visualization reveals that municipalities with **higher average crime rates** (in red) also tend to have **greater volatility**. For example, **Odense** and **Ishøj** show large year-to-year changes, suggesting less stable crime patterns.
+
+In contrast, the municipalities with **low average crime rates** (in green) generally show **more consistent levels** of crime. **Christiansø** stands out with no recorded incidents during the entire period, while others like **Odder** and **Hørsholm** maintain relatively steady trends.
+
+This contrast may reflect underlying differences in population size, social conditions, or law enforcement consistency.
