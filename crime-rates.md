@@ -23,7 +23,7 @@ Crime rates are measured per 10,000 residents.
 
 <iframe src="/crime_rates_plotly.html" width="100%" height="600" frameborder="0"></iframe>
 
-On the graph above we see the Crime rates over time for the five municipalities with the highest average crime levels. 
+On the graph above we see the Crime rates over time for the five municipalities with the highest average crime levels.
 - **Top 5**: Lolland, Brøndby, Guldborgsund, Ishøj, and Odense.
 
 All municipalities seem to spike around year 2012-2013 and then there is a decline. After year 2015 the crime rates in the municipalities varies more, espeacially the top 4 which all viaries with about 10 in the period 2015-2025.
