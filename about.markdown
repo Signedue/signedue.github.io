@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+#combined crime income and education
+title: Combined Crime, Income, and Education
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+On this page we will explore the relationship between crime rates, income levels, and education attainment in Denmark.
+We will analyze how these factors interact and whether there are any significant correlations between them. 
+The data used in this analysis is sourced from Statistics Denmark and includes information on crime rates, income levels, and education attainment for various municipalities across the country.
