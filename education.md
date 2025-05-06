@@ -30,8 +30,11 @@ Building on the national trend, Copenhagen's data shows:
 This focus on Copenhagen naturally leads us to examine regional variations across Denmark.
 
 ### 3. Regional Educational Landscape
-[View Top 5 Education Regions](top5_education_regions_men_women.html)
-[View Bottom 5 Education Regions](bottom5_education_regions_men_women.html)
+
+<iframe src="top5_education_regions_men_women.html" width="100%" height="700" frameborder="0"></iframe>
+
+<iframe src="bottom5_education_regions_men_women.html" width="100%" height="700" frameborder="0"></iframe>
+
 
 **Analysis:**
 These interactive maps reveal:
@@ -42,7 +45,9 @@ These interactive maps reveal:
 Understanding these regional patterns helps us examine the types of education being pursued in different areas.
 
 ### 4. Educational Field Distribution
-[View Growth in Education Categories](growth%20in%20education%20categories.html)
+
+<iframe src="growth%20in%20education%20categories.html" width="100%" height="700" frameborder="0"></iframe>
+
 
 **Analysis:**
 This visualization shows:
@@ -53,8 +58,9 @@ This visualization shows:
 This leads us to examine the most and least common educational paths.
 
 ### 5. Popular and Emerging Educational Paths
-[View Top 5 Education Types](top5_education_types_men_women.html)
-[View Bottom 5 Education Types](bottom5_education_types_men_women.html)
+
+<iframe src="top5_education_types_men_women.html" width="100%" height="700" frameborder="0"></iframe>
+<iframe src="bottom5_education_types_men_women.html" width="100%" height="700" frameborder="0"></iframe>
 
 **Analysis:**
 These visualizations reveal:
