@@ -52,3 +52,22 @@ The visualization reveals that municipalities with **higher average crime rates*
 In contrast, the municipalities with **low average crime rates** (in green) generally show **more consistent levels** of crime. **Christiansø** stands out with no recorded incidents during the entire period, while others like **Odder** and **Hørsholm** maintain relatively steady trends.
 
 This contrast may reflect underlying differences in population size, social conditions, or law enforcement consistency.
+
+
+
+## Types of Crime – Top vs Bottom 5 Municipalities
+
+While earlier sections focused on overall crime rates, it's also important to understand *what kinds* of crimes are being committed. In this section, we break down total offences from 2007 to 2024 by major crime categories.
+
+We focus on the five municipalities with the **highest** and **lowest** average crime rates and examine how their crime profiles differ. The goal is not to explain why these differences exist, but to provide a clearer picture of the nature of crime in different areas.
+
+<iframe src="/crime_offence_top.html" width="100%" height="600" frameborder="0"></iframe>
+
+In the Top 5 municipalities, crimes of violence are the most prominent category across the board — particularly in Lolland and Guldborgsund. Odense and Brøndby also show high levels of property crimes and violations of special acts. Lolland stands out with notably high values in almost every category.
+
+<iframe src="/crime_offence_bottom.html" width="100%" height="600" frameborder="0"></iframe>
+
+
+By contrast, in the Bottom 5 municipalities, crime levels are much lower across all categories. The most common offences here are sexual offences and traffic law violations, with only small variation between municipalities. Christiansø, being a very small municipality, shows extremely low or even zero incidents in most categories.
+
+The contrast highlights not only differences in crime volume, but also variation in the types of crimes that are most prevalent in each area.
