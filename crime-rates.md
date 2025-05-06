@@ -135,9 +135,6 @@ Based on these insights, we propose building a machine learning model to **predi
 
 By training a model specifically on male crime rates, we aim to explore how demographic, spatial, and temporal features (such as year, population size, and municipality) influence crime levels — and to assess how well we can forecast future crime trends.
 
-<iframe src="/crime_offence_gender_bottom.html" width="100%" height="600" frameborder="0"></iframe>
-
-
 To understand and predict crime patterns, we trained a Random Forest regression model on male crime rate data from Danish municipalities. The model uses year, municipality, and population size as input features to predict crime rates per 10,000 residents.
 
 
