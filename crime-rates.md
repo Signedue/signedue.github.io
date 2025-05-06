@@ -71,3 +71,22 @@ In the Top 5 municipalities, crimes of violence are the most prominent category 
 By contrast, in the Bottom 5 municipalities, crime levels are much lower across all categories. The most common offences here are sexual offences and traffic law violations, with only small variation between municipalities. Christiansø, being a very small municipality, shows extremely low or even zero incidents in most categories.
 
 The contrast highlights not only differences in crime volume, but also variation in the types of crimes that are most prevalent in each area.
+
+
+
+## Crime Distribution by Gender – Top vs Bottom 5 Municipalities
+To better understand the gender dynamics behind different crime types, we separate crime rates by gender across the top 5 and bottom 5 municipalities. The values shown are standardized by population, expressed as crimes per 10,000 residents over the period 2007–2024.
+
+This breakdown allows us to see whether men and women contribute differently to overall crime levels — and whether these differences vary by crime category or municipality.
+
+<iframe src="/crime_offence_gender_top.html" width="100%" height="600" frameborder="0"></iframe>
+
+Men consistently exhibit higher crime rates across all municipalities and crime types — especially in violent offences and property-related crimes.
+
+In top 5 municipalities, male crime rates are significantly higher in categories like Crimes of violence and Other offences.
+
+<iframe src="/crime_offence_gender_bottom.html" width="100%" height="600" frameborder="0"></iframe>
+
+Gender gaps are narrower in the bottom 5 municipalities due to overall lower crime levels, but male rates still dominate, particularly in traffic-related and property offences.
+
+Notably, female crime rates are most visible in Offences against property and Special acts, although still markedly lower than those of males.
