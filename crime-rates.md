@@ -113,13 +113,21 @@ Notably, female crime rates are most visible in Offences against property and Sp
 
 Absolutely! Here's a clear and concise **conclusion** you can place at the bottom of your markdown file, followed by a natural **lead-in to your model**:
 
+
+
 ---
+
+
 
 ## Conclusion
 
 This analysis has shown significant variation in crime rates across Danish municipalities over time, between genders, and by type of offence. Municipalities such as Lolland and Guldborgsund consistently experience higher crime rates, particularly driven by violent and property crimes, whereas municipalities like Christiansø and Fanø show minimal criminal activity overall. A strong and consistent gender gap is evident: men commit significantly more crimes than women across all offence types and locations. This pattern is robust even in low-crime areas, indicating that gender is a key determinant in crime data.
 
 Furthermore, high-crime municipalities also tend to exhibit greater volatility in yearly crime rates, suggesting more unstable or dynamic crime environments. On the other hand, municipalities with lower crime rates demonstrate more consistent patterns year over year.
+
+
+---
+
 
 ## Next Step: Modeling Crime Rates
 
