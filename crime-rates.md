@@ -29,6 +29,24 @@ On the graph above we see the Crime rates over time for the five municipalities 
 All municipalities seem to spike around year 2012-2013 and then there is a decline. After year 2015 the crime rates in the municipalities varies more, espeacially the top 4 which all viaries with about 10 in the period 2015-2025.
 Odense seems to have succesfylly lowered the crimerate after 2015 and we dont see it incline again like the top 4 municipalities. 
 
+
+
+## Gender Differences in Crime Rates Across Danish Municipalities
+
+To better understand how gender affects criminal activity, the following bar charts display the average crime rate per 10,000 residents from 2008 to 2024, split by gender (Men and Women) for the Top 5 and Bottom 5 municipalities based on overall crime rates.
+
+This visualization builds on the previous analysis by showing how men and women contribute differently to the crime statistics in high- and low-crime areas.
+<iframe src="/crime_gender_top.html" width="100%" height="600" frameborder="0"></iframe>
+
+The first chart illustrates the average crime rate per 10,000 residents for men and women across the five municipalities with the highest overall crime rates: **Brøndby, Guldborgsund, Ishøj, Lolland, and Odense**. Across the board, men are responsible for the vast majority of recorded crimes, with rates ranging from around 18 to 24 per 10,000 residents. In contrast, women’s crime rates remain consistently low, typically between 1 and 2 per 10,000. **Lolland** stands out with the highest male crime rate, while **Odense** has the smallest gender gap, though the difference is still substantial. This pattern reinforces the significant gender disparity in crime involvement, particularly in high-crime areas.
+
+
+<iframe src="/crime_gender_bottom.html" width="100%" height="600" frameborder="0"></iframe>
+
+The second chart presents the same gender-based comparison for the five municipalities with the lowest average crime rates: **Christiansø, Fanø, Hørsholm, Odder, and Skanderborg**. While the overall crime levels are much lower here, the gender gap remains pronounced. Men still commit far more crimes per capita than women, though the rates are typically between 4 and 4.5 for men and under 0.5 for women. **Skanderborg** and **Odder** have slightly higher male crime rates than the rest, but the general trend of minimal female crime persists. This consistency across different crime environments suggests that the gender divide is a robust feature of local crime patterns.
+
+
+
 <iframe src="/crime_timeseries_top5.html" width="100%" height="650" frameborder="0"></iframe>
 
 The crime trends in the municipalities with the lowest average crime rates we see:
