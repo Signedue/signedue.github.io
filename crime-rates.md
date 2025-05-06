@@ -108,35 +108,3 @@ In top 5 municipalities, male crime rates are significantly higher in categories
 Gender gaps are narrower in the bottom 5 municipalities due to overall lower crime levels, but male rates still dominate, particularly in traffic-related and property offences.
 
 Notably, female crime rates are most visible in Offences against property and Special acts, although still markedly lower than those of males.
-
-
-
-Absolutely! Here's a clear and concise **conclusion** you can place at the bottom of your markdown file, followed by a natural **lead-in to your model**:
-
----
-
-## Conclusion
-
-This analysis has shown significant variation in crime rates across Danish municipalities over time, between genders, and by type of offence. Municipalities such as Lolland and Guldborgsund consistently experience higher crime rates, particularly driven by violent and property crimes, whereas municipalities like Christiansø and Fanø show minimal criminal activity overall. A strong and consistent gender gap is evident: men commit significantly more crimes than women across all offence types and locations. This pattern is robust even in low-crime areas, indicating that gender is a key determinant in crime data.
-
-Furthermore, high-crime municipalities also tend to exhibit greater volatility in yearly crime rates, suggesting more unstable or dynamic crime environments. On the other hand, municipalities with lower crime rates demonstrate more consistent patterns year over year.
-
-## Next Step: Modeling Crime Rates
-
-Based on these insights, we propose building a machine learning model to **predict crime rates** using municipality-level data. Given the consistent gender disparities, it makes sense to start by focusing on **male crime data only**, as including women — whose crime rates are much lower and more stable — may reduce the model’s ability to detect meaningful patterns.
-
-By training a model specifically on male crime rates, we aim to explore how demographic, spatial, and temporal features (such as year, population size, and municipality) influence crime levels — and to assess how well we can forecast future crime trends.
-
-<iframe src="/crime_offence_gender_bottom.html" width="100%" height="600" frameborder="0"></iframe>
-
-
-To understand and predict crime patterns, we trained a Random Forest regression model on male crime rate data from Danish municipalities. The model uses year, municipality, and population size as input features to predict crime rates per 10,000 residents.
-
-
-<iframe src="/crime_predicted1.png" width="100%" height="600" frameborder="0"></iframe>
-
-
-The chart below compares the predicted crime rates against the actual observed values. Each dot represents a municipality-year combination. The closer the points are to the red dashed line, the more accurate the model’s predictions.
-
-With an R² score of 0.781 and RMSE of 2.55, the model demonstrates good predictive power. While some under- and overestimations exist, the overall fit indicates that temporal, spatial, and demographic features are meaningful predictors of male crime rates across Denmark
-
