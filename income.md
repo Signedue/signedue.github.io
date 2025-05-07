@@ -55,7 +55,7 @@ The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposa
 These disparities suggest potential links to education access, labor markets, and crime statistics across municipalities.
 
 
----
+
 ## Gender Income Gap in Copenhagen
 
 <div align="center">
@@ -63,7 +63,6 @@ These disparities suggest potential links to education access, labor markets, an
 </div>
 
 
----
 # Disposable Income Gap (Men - Women) in Copenhagen
 
 The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** presents the disparity in disposable income between men and women in Copenhagen from **2007 to 2023**.
