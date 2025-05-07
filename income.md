@@ -28,7 +28,7 @@ Similarly, among women, Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsho
 These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with education attainment and crime statistics will help clarify these patterns.These disparities likely reflect differences in education, job opportunities, and crime rates.
 </div>
 
-# 📊 Top and Bottom 5 Regions by Income (2007–2023)
+# 📊 Top and Bottom 5 Regions by Income 
 ___
 
 <div align="center">
