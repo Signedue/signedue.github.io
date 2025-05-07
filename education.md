@@ -240,4 +240,4 @@ This journey through Denmark’s education landscape has revealed a society that
 
 This final forecast reminds us that the trends we see today will shape the workforce, inequality, and opportunity in years to come.
 
-If Denmark wants a more balanced future, it must act not just on **access**, but on **inclusion**, **representation**, and **regional parity** in its education policies.
+If Denmark wants a more balanced future, it must act not just on **access**, but on **inclusion**, **representation**, and **regional parity** in its education policies.33
