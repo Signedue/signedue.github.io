@@ -50,27 +50,18 @@ These disparities likely reflect differences in education, job opportunities, an
 </div>
 
 The chart above shows the top 5 regions in Denmark based on disposable income for men and women in 2023.
-
-The chart above shows the top 5 regions in Denmark based on disposable income for men and women in 2023.
-
-
-
 ### Chart: Top 5 and Bottom 5 Regions in 2023
 
-
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
-•	Top 5 Regions (First Chart):
-o	Regions such as Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk demonstrate the highest levels of male and female disposable and taxable income.
-o	Gentofte stands out with the highest disposable income for both genders, nearing 700,000 DKK for men and over 500,000 DKK for women.
-o	Billund shows a notable spike in men's disposable income, suggesting a potential economic boom or demographic change.
-o	While men’s taxable income generally exceeds women’s across these regions, the gap is most pronounced in Rudersdal and Hørsholm.
-•	Bottom 5 Regions (Second Chart):
-o	Regions such as Langeland, Lolland, Albertslund, Bornholm, and Ærø display significantly lower income levels for both men and women.
-o	Disposable income in these areas remains under 300,000 DKK for men and below 220,000 DKK for women.
-o	Some regions (e.g., Morsø, Struer, Thisted) only have data for women’s taxable income, indicating either data limitations or demographic anomalies.
-o	The consistent income disparity between the top and bottom regions highlights potential socioeconomic divides.
-These visualizations underscore the income inequality across Danish municipalities, offering a foundation for analyzing how education and crime rates may be influencing these disparities.
+### Key Insights
 
+- **Top Regions**: Gentofte leads in disposable income; noticeable gender income gaps in Rudersdal and Hørsholm.
+- **Bottom Regions**: Ærø, Langeland, and Lolland show the lowest incomes, with disposable income under 300,000 DKK for men.
+- Some regions have missing data for men, possibly due to demographics or reporting limitations.
+
+### Socioeconomic Context
+
+These disparities suggest potential links to education access, labor markets, and crime statistics across municipalities.
 
 
 ---
