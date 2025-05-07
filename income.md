@@ -27,16 +27,7 @@ For men, the data reveals that Gentofte, Rudersdal, Billund, Hørsholm, and Lyng
 
 
 Similarly, among women, Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsholm lead in disposable income. Gentofte again tops the list with a sharp rise to over 500,000 DKK in 2023, and Vejen also sees a notable spike that year. On the lower end, regions such as Langeland, Lolland, Ærø, Læsø, and Morsø exhibit significantly lower incomes, generally below 220,000 DKK until 2022, with only slight upward trends.
-These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with education attainment and crime statistics will help clarify these patterns.
-
-
-
-These disparities likely reflect differences in education, job opportunities, and crime rates.
-
----
-
-## Income Charts Summary
-
+These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with education attainment and crime statistics will help clarify these patterns.These disparities likely reflect differences in education, job opportunities, and crime rates.
 
 
 ## Top 5 Regions by Disposable Income (Men & Women)
@@ -53,6 +44,8 @@ The chart above shows the top 5 regions in Denmark based on disposable income fo
 ### Chart: Top 5 and Bottom 5 Regions in 2023
 
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
+
+
 ### Key Insights
 
 - **Top Regions**: Gentofte leads in disposable income; noticeable gender income gaps in Rudersdal and Hørsholm.
@@ -70,8 +63,7 @@ These disparities suggest potential links to education access, labor markets, an
 <div align="center">
   <img src="gender income gap.png" alt="Gender Income Gap" width="80%">
 </div>
----
-title: Disposable Income Gap (Men - Women) in Copenhagen
+
 ---
 
 # Disposable Income Gap (Men - Women) in Copenhagen
