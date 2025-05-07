@@ -42,11 +42,11 @@ These disparities likely reflect differences in education, job opportunities, an
 ## Top 5 Regions by Disposable Income (Men & Women)
 
 <div align="center">
-  <img src="top_5_male_female_disposable_income.png" alt="Top 5 Male and Female Disposable Income" width="80%">
+  <img src="top 5 male female dispossible income.png" alt="Top 5 Male and Female Disposable Income" width="80%">
 </div>
 
 <div align="center">
-  <img src="buttom_5_male_female_disposable_income.png" alt="Buttom 5 Male and Female Disposable Income" width="80%">
+  <img src="buttom 5 male female dispossible income.png" alt="Buttom 5 Male and Female Disposable Income" width="80%">
 </div>
 
 The chart above shows the top 5 regions in Denmark based on disposable income for men and women in 2023.
