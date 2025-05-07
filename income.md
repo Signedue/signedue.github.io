@@ -66,24 +66,25 @@ These visualizations underscore the **income inequality across Danish municipali
 
 ## 💸 Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
 ___
+The bar chart titled "Top 10 Regions by Growth in Men Disposable Income (2007–2023)" illustrates the increase in disposable income for men across ten regions in Denmark over a 16-year period. The horizontal axis represents the income growth in Danish Kroner (DKK), while the vertical axis lists the regions.
 
 ![image](https://github.com/user-attachments/assets/524a5f3d-486f-43af-915f-77cd3930f62b)
 
-The bar chart titled **"Top 10 Regions by Growth in Men Disposable Income (2007–2023)"** illustrates the increase in **disposable income** for men across ten regions in Denmark over a **16-year period**. The horizontal axis represents the **income growth in Danish Kroner (DKK)**, while the vertical axis lists the **regions**.
+
 
 #### 🔍 Key Insights
 
-- **Billund** tops the list with the most significant growth — men’s disposable income increased by **more than 360,000 DKK**, far exceeding other regions.
-- **Gentofte** and **Rudersdal** follow in second and third place, with income growth of approximately **310,000 DKK** and **270,000 DKK**, respectively.
-- Regions such as **Dragør, Lyngby-Taarbæk**, and **Hørsholm** experienced **moderate growth**, ranging between **160,000 to 180,000 DKK**.
-- **Frederiksberg, Furesø, Allerød**, and **Rebild** had the **lowest growth** among the top 10, each registering increases around **140,000 to 150,000 DKK**.
+- **Billund** tops the list with the most significant growth — men’s disposable income increased by more than 360,000 DKK, far exceeding other regions.
+- **Gentofte** and **Rudersdal** follow in second and third place, with income growth of approximately 310,000 DKK** and 270,000 DKK, respectively.
+- Regions such as Dragør, Lyngby-Taarbæk, and Hørsholm experienced moderate growth, ranging between 160,000 to 180,000 DKK.
+- Frederiksberg, Furesø, Allerød, and Rebild had the lowest growth among the top 10, each registering increases around 140,000 to 150,000 DKK.
 
 #### 🧠 Interpretation
 
 This chart highlights **substantial regional variation** in men’s income growth across Denmark:
 
-- The dramatic lead by **Billund** may reflect **localized economic developments** — such as **investments, industry presence**, or **demographic shifts** — that disproportionately benefited men’s earnings.
-- More **modest growth** in regions like **Rebild** and **Allerød** still indicates positive change but on a smaller scale.
+- The dramatic lead by **Billund** may reflect localized economic developments — such as investments, industry presence, or demographic shifts — that disproportionately benefited men’s earnings.
+- More modest growth in regions like Rebild and Allerød still indicates positive change but on a smaller scale.
 - Overall, the chart suggests **growing economic disparities** between regions in terms of **male disposable income growth**.
 
 
@@ -97,22 +98,20 @@ ___
 ![image](https://github.com/user-attachments/assets/4f4e013d-87b0-4dd8-8edb-8f92c972ab42)
 
 
-The bar chart titled **"Top 10 Regions by % Income Growth (2007–2023)"** shows the **percentage increase in disposable income** over time, allowing for a **normalized comparison** across regions regardless of starting income levels.
-
-The **X-axis** lists the top-performing regions, while the **Y-axis** represents the **percentage growth** in disposable income from **2007 to 2023**.
+The bar chart titled **"Top 10 Regions by % Income Growth (2007–2023)"** shows the percentage increase in disposable income over time, allowing for a normalized comparison across regions regardless of starting income levels. The X-axis lists the top-performing regions, while the Y-axis represents the percentage growth in disposable income from 2007 to 2023.
 
 #### 🔍 Key Highlights
 
-- **Billund** stands out dramatically, with a **percentage growth exceeding 180%**, far surpassing all other regions. This suggests an **extraordinary economic development or income surge** over the period.
-- **Gentofte** and **Rudersdal** follow with strong but significantly lower growth rates, around **80%** and **75%**, respectively.
-- Regions such as **Copenhagen, Frederiksberg, Rebild**, and **Dragør** all experienced fairly similar percentage increases, clustered between **68% and 72%**.
-- The lower end of the top 10 includes **Lyngby-Taarbæk, Samsø**, and **Lemvig**, each with growth rates just under **65%**.
+- **Billund** stands out dramatically, with a percentage growth exceeding 180%, far surpassing all other regions. This suggests an extraordinary economic development or income surge** over the period.
+- **Gentofte** and **Rudersdal** follow with strong but significantly lower growth rates, around 80% and 75%, respectively.
+- Regions such as Copenhagen, Frederiksberg, Rebild, and Dragør all experienced fairly similar percentage increases, clustered between 68% and 72%.
+- The lower end of the top 10 includes Lyngby-Taarbæk, Samsø, and Lemvig, each with growth rates just under 65%.
 
 #### 🧠 Interpretation
 
-This **percentage-based perspective** emphasizes not just the **absolute income gains** but the **relative improvement** in disposable income for each region:
+This percentage-based perspective emphasizes not just the absolute income gains but the relative improvement in disposable income for each region:
 
-- **Billund** again dominates, indicating it likely had both **lower starting income levels** and **significant growth**, making it an **economic outlier** in terms of development.
+- **Billund** again dominates, indicating it likely had both lower starting income levels and significant growth, making it an economic outlier in terms of development.
 - The consistency in growth among the other regions suggests **widespread but uneven economic progress** across Denmark.
 
 
