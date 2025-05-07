@@ -3,6 +3,7 @@
 layout: default
 title: Education
 permalink: /income.html
+
 ---
 
 # Interactive Chart: Top vs Bottom Regions (Men)
@@ -20,12 +21,16 @@ With education and crime rate, we are interested in identifying any patterns in 
 
 For men, the data reveals that Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk consistently rank among the highest income regions. Notably, Gentofte exhibits the highest male disposable income, approaching 700,000 DKK in 2023, while Billund shows a dramatic increase between 2022 and 2023. Conversely, Langeland, Lolland, Albertslund, Bornholm, and Ærø remain among the lowest-income regions for men throughout the period, with only modest growth observed over time.
 
+</div>
+
 <iframe src="income_trends_Women.html" width="100%" height="700px" frameborder="0"></iframe>
 
 
-
+<div align="justify">
 Similarly, among women, Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsholm lead in disposable income. Gentofte again tops the list with a sharp rise to over 500,000 DKK in 2023, and Vejen also sees a notable spike that year. On the lower end, regions such as Langeland, Lolland, Ærø, Læsø, and Morsø exhibit significantly lower incomes, generally below 220,000 DKK until 2022, with only slight upward trends.
 These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with education attainment and crime statistics will help clarify these patterns.These disparities likely reflect differences in education, job opportunities, and crime rates.
+
+</div>
 
 
 # Top 5 Regions by Disposable Income (Men & Women)
@@ -81,8 +86,6 @@ The gap in disposable income has **widened significantly** over the 17 years. De
 
 
 
-
-</div>
 
 
 > This analysis sets the stage for further investigation into how education and crime rates may contribute to income inequality in Denmark.
