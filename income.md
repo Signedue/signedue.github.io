@@ -4,7 +4,8 @@ title: Income
 permalink: /income.html
 ---
 
-# Income for the top and bottom five regions in Denmark (2007–2023) for Men
+# 🌍 Income Trends Across Denmark (2007–2023)
+Explore the evolution of disposable and taxable incomes for both men and women in Denmark's regions over 16 years.
 
 This interactive Plotly chart compares disposable income for Denmark's top and bottom five regions (2007–2023).
 
@@ -27,7 +28,7 @@ Similarly, among women, Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsho
 These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with education attainment and crime statistics will help clarify these patterns.These disparities likely reflect differences in education, job opportunities, and crime rates.
 </div>
 
-# Top 5 Regions by Disposable Income (Men & Women)
+# 📊 Top and Bottom 5 Regions by Income (2007–2023)
 
 <div align="center">
   <img src="top 5 male female dispossible income.png" alt="Top 5 Male and Female Disposable Income" width="80%">
@@ -68,7 +69,7 @@ These visualizations underscore the **income inequality across Danish municipali
 
 
 
-# 📊 Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
+# 💸 Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
 
 ![image](https://github.com/user-attachments/assets/524a5f3d-486f-43af-915f-77cd3930f62b)
 
@@ -96,7 +97,7 @@ This chart highlights **substantial regional variation** in men’s income growt
 
 
 
-# 📊 Top 10 Regions by % Income Growth (2007–2023)
+# 📈 Top 10 Regions by % Income Growth (2007–2023)
 ![image](https://github.com/user-attachments/assets/4f4e013d-87b0-4dd8-8edb-8f92c972ab42)
 
 
