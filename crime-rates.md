@@ -133,7 +133,7 @@ To understand and predict crime patterns, we trained a Random Forest regression 
 <iframe src="/crime_predicted1.png" width="100%" height="600" frameborder="0"></iframe>
 
 
-The chart below compares the predicted crime rates against the actual observed values. Each dot represents a municipality-year combination. The closer the points are to the red dashed line, the more accurate the model’s predictions.
+The chart above compares the predicted crime rates against the actual observed values. Each dot represents a municipality-year combination. The closer the points are to the red dashed line, the more accurate the model’s predictions.
 
 With an R² score of 0.781 and RMSE of 2.55, the model demonstrates good predictive power. While some under- and overestimations exist, the overall fit indicates that temporal, spatial, and demographic features are meaningful predictors of male crime rates across Denmark
 
