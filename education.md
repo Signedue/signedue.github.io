@@ -104,68 +104,140 @@ To explore this, we break down the top 5 most educated regions by **education ty
   <iframe src="Distribution of Education Types Across Top 5 regions.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
 
-Higher education dominates across all top regions. Bachelor’s and Master’s degrees are leading. Odense and Silkeborg show relatively stronger engagement in vocational education.
+Across all five regions — Copenhagen, Aarhus, Odense, Aalborg, and Frederiksberg — **Bachelor’s and Master’s programs dominate**, highlighting the urban concentration of higher education institutions.
+
+However, variation exists:
+
+- **Odense** shows a stronger presence of **Vocational Education and Training (VET)**, likely due to its historical industry links.
+- **Aarhus** and **Copenhagen** stand out for **PhD and advanced academic programs**, reflecting the location of major universities.
+- **Frederiksberg**, despite its size, shows high engagement in **social sciences and health programs**, which aligns with local institutional focus areas.
+
+> The takeaway: not all educated populations are the same. **Educational composition varies by region**, hinting at diverse economic bases and educational infrastructure.
+
+Next, we’ll explore how education types have evolved over time — and whether some programs are expanding while others fade away.
+
+---
+
+## 🕰️ How Education Types Have Evolved Over Time
+
+After comparing what regions prioritize, we now zoom out to look at **national trends in education types** from 2008 to 2023.
+
+Each line in the chart below represents a different type of education — from primary schooling to PhDs — and shows how participation in each has changed over the past 15 years.
 
 <div style="margin-bottom: 10px;">
   <iframe src="Evolution of Education Types Over Time.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
 
-Academic degrees are rising sharply. Vocational and trade-oriented programs show slower or negative growth. The country is becoming more educated — but also more academically skewed.
+- **Bachelor’s and Master’s programs** show the most consistent growth, reflecting Denmark’s shift toward a highly educated workforce.
+- **Primary education and youth education programs** remain stable or decline slightly — likely because these levels are more population-based and less influenced by policy or economic trends.
+- **PhD programs** have grown modestly, but remain small in absolute numbers.
+- Some **vocational and trade programs** appear to plateau, especially in the years following 2015 — suggesting either saturation or a societal pivot away from manual professions.
 
-# 👩‍💼 Gendered Preferences
+> The data paints a picture of a society increasingly focused on **academic and professional education**, with a gradual shift away from traditional vocational pathways.
 
-Now we compare educational preferences between men and women.
+Next, we explore how these shifts differ **by gender** — and whether women are driving particular types of education more than men.
+
+---
+
+## 👩‍🎓👨‍🔧 Gender Differences Across Education Types
+
+We've seen how education programs have evolved over time — but who is filling those seats?
+
+The chart below breaks down **male and female participation** across all education types in 2023. It offers a clear snapshot of **gendered educational preferences** and highlights persistent divides between fields.
 
 <div style="margin-bottom: 10px;">
   <iframe src="Gender Distribution by Education Type.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
 
-Women dominate in education and health. Men are more concentrated in engineering and trades. Some categories, like Bachelor’s degrees, are more balanced.
+- **Health and education programs** are overwhelmingly female-dominated — reflecting societal norms and career clustering still present in Denmark.
+- **Technical and vocational education**, including trade and engineering pathways, remain male-heavy.
+- **Bachelor’s and Master’s programs** are more balanced, but even here women slightly outnumber men in most fields.
+- The biggest surprise? **PhD programs**, long male-dominated, are approaching parity — a promising sign of change in academia.
 
-Education is accessible to all — but still culturally gendered.
+> Gender may no longer limit access to education, but it still shapes the direction people take once inside the system.
+
+Next, we’ll explore how some of these categories have **grown or declined over time** — and whether the gender split is changing with them.
+
+---
+
+## 🚀 Who's Driving Growth in Education?
+
+We’ve seen the gender split in 2023 — but how did we get here?
+
+This chart compares the **percentage growth** in each type of education from 2008 to 2023, separated by gender. It shows not just where men and women are today, but **how fast each group is growing across different educational pathways**.
 
 <div style="margin-bottom: 10px;">
   <iframe src="% Growth in Education Type by Gender.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
 
-Growth tells the same story: women are outpacing men in most categories, especially in academic fields. Men show smaller gains in vocational sectors.
+- **Women lead growth in nearly all academic education categories**, including Bachelor’s, Master’s, and professional programs.
+- Men show stronger growth in **vocational and trade-oriented programs**, although these categories are expanding more modestly overall.
+- Some types of education — like **short-cycle tertiary or certain youth education tracks** — show negative or flat growth, especially among men.
+- The gap in growth rate is most striking in higher education, where **women consistently outpace men by 30–50%** in relative terms.
 
-# 🏆 What’s Most (and Least) Popular?
+> Over 15 years, women haven’t just caught up — they’ve become the primary force behind Denmark’s education expansion, especially in urban and academic fields.
+
+---
+
+## 🏆 The Most Popular Education Types for Each Gender
+
+After comparing how education types have grown differently for men and women, we now take a closer look at **which specific programs dominate** for each gender — and how participation in them has changed over time.
+
+The plots below highlight the **Top 5 education types** for men and women respectively, showing yearly trends from 2008 to 2023.
 
 <div style="margin-bottom: 10px;">
   <iframe src="top5_education_types_men_women.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
 
-The most common paths reflect the gendered split we’ve seen: vocational and technical education for men, social and health sciences for women.
+- **Men** tend to dominate in areas like **vocational education**, **engineering**, and **short-cycle technical programs** — paths often aligned with hands-on professions and technical fields.
+- **Women** lead strongly in **health**, **education**, and **social sciences** — with growing participation across all five categories.
+- For both sexes, the lines rise gradually, indicating consistent long-term growth — but **women’s lines rise more steeply**, echoing earlier observations about their leading role in education expansion.
+
+> These trajectories reinforce a broader societal pattern: while both men and women are becoming more educated, **they're still choosing very different educational paths**.
+
+---
+
+## 🪙 The Other Side of the Spectrum: Bottom 5 Education Types
+
+Just as some fields are surging, others are quietly falling behind.
+
+To complete the picture, we examine the **bottom 5 education types** for men and women respectively — the least pursued programs over the 15-year span from 2008 to 2023.
 
 <div style="margin-bottom: 10px;">
   <iframe src="bottom5_education_types_men_women.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
 
-Men rarely pursue nursing or primary school teaching. Women are least represented in engineering and certain trade programs. These gaps have persisted for over a decade.
+- For **men**, the least pursued programs include **arts**, **nursing**, and **teaching** — traditionally female-dominated fields.
+- For **women**, technical tracks such as **engineering**, **trade-oriented programs**, and **short-cycle technical education** appear at the bottom.
+- Both charts show **flat or slow growth**, signaling persistent gender biases and limited efforts to diversify enrollment in these areas.
 
-# 🔮 Forecasting the Future (ML Model)
+These less popular programs aren’t necessarily less important — but they remain **culturally and economically gendered**, attracting far less participation despite nationwide progress in education access.
 
-Finally, we use linear regression to predict education trends in Copenhagen through 2030. The model is trained separately for men and women.
+---
+
+## 🔮 What Comes Next? Forecasting Education in Copenhagen
+
+To complete our analysis, we used a simple linear regression model to **predict education trends in Copenhagen through 2030** — separately for men and women.
 
 ![Education Forecast in Copenhagen](Education%20Predict.png)
 
-Women are projected to maintain and even widen their lead in educational attainment. Men continue to grow more slowly. The model confirms: if current trends hold, gender imbalance in favor of women will deepen.
+- Both men and women are projected to continue growing their educational participation at a steady rate.
+- **Women maintain a consistent lead**, reinforcing the reversal we observed earlier: the gender gap hasn’t just closed — it has flipped.
+- The gap **slightly widens** by 2030, suggesting that unless intervention happens, **male participation may lag** further behind over time.
 
-Machine learning shows us the future: more education overall, but widening gender gaps.
+> Machine learning isn't about certainty — it's about spotting trajectories. And here, the trajectory tells a story of continued progress — but also persistent imbalance.
 
-# 🧐 Final Reflection
+---
 
-Denmark is becoming more educated. That’s the good news.
+## 🧠 Final Reflection
 
-But the data also reveals inequalities:
+This journey through Denmark’s education landscape has revealed a society that’s **growing smarter**, but not always **more equal**.
 
-Urban centers thrive. Rural areas lag.
+- 🎓 Education is rising overall — especially in urban areas like Copenhagen
+- 👩‍🎓 Women now lead across most levels and types of education
+- 🛠️ Vocational and trade tracks are declining, especially among women
+- 🌍 Geography, gender, and program type all shape who gets educated — and how
 
-Women lead growth. Men are slowing down.
+This final forecast reminds us that the trends we see today will shape the workforce, inequality, and opportunity in years to come.
 
-Academic education expands. Vocational paths shrink.
-
-Education policy in Denmark must now move beyond access. It must focus on regional inclusion, gender balance, and program diversity.
-
-Only then will education truly be the equalizer it was meant to be.
+If Denmark wants a more balanced future, it must act not just on **access**, but on **inclusion**, **representation**, and **regional parity** in its education policies.
