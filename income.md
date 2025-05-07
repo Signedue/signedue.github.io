@@ -9,9 +9,7 @@ ___
 💰 **Income isn’t just a number — it’s a reflection of opportunity, stability, and inequality.**  
 In Denmark, where the welfare model aims for equity, regional and gender-based income gaps still tell a deeper story.
 
-On this page, we explore **17 years of income data (2007–2023)** gathered from **Statistics Denmark** ([dst.dk/en](https://www.dst.dk/en)). The original dataset, labeled “Income Database,” was split into two subsets by gender — “Men” and “Women” — to allow for more focused analysis.
-
-This exploration aims to uncover:
+On this page, we explore 17 years of income data (2007–2023) gathered from Statistics Denmark ([dst.dk/en](https://www.dst.dk/en)). The original dataset, labeled “Income Database,” was split into two subsets by gender — “Men” and “Women” — to allow for more focused analysis.This exploration aims to uncover:
 
 👨‍👩‍👧‍👦 **How income trends vary between men and women**  
 🗺️ **Which Danish regions are climbing — or falling — in terms of disposable income**  
@@ -71,7 +69,7 @@ These visualizations underscore the income inequality across Danish municipaliti
 
 
 
-## 💸 Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
+## 💸 Top 10 Regions by Growth in Men’s Disposable Income
 ___
 The bar chart titled "Top 10 Regions by Growth in Men Disposable Income (2007–2023)" illustrates the increase in disposable income for men across ten regions in Denmark over a 16-year period. The horizontal axis represents the income growth in Danish Kroner (DKK), while the vertical axis lists the regions.
 
@@ -86,13 +84,7 @@ The bar chart titled "Top 10 Regions by Growth in Men Disposable Income (2007–
 - Regions such as Dragør, Lyngby-Taarbæk, and Hørsholm experienced moderate growth, ranging between 160,000 to 180,000 DKK.
 - Frederiksberg, Furesø, Allerød, and Rebild had the lowest growth among the top 10, each registering increases around 140,000 to 150,000 DKK.
 
-#### 🧠 Interpretation
-
-This chart highlights **substantial regional variation** in men’s income growth across Denmark:
-
-- The dramatic lead by **Billund** may reflect localized economic developments — such as investments, industry presence, or demographic shifts — that disproportionately benefited men’s earnings.
-- More modest growth in regions like Rebild and Allerød still indicates positive change but on a smaller scale.
-- Overall, the chart suggests **growing economic disparities** between regions in terms of **male disposable income growth**.
+The dramatic lead by **Billund** may reflect localized economic developments — such as investments, industry presence, or demographic shifts — that disproportionately benefited men’s earnings. More modest growth in regions like Rebild and Allerød still indicates positive change but on a smaller scale. Overall, the chart suggests **growing economic disparities** between regions in terms of **male disposable income growth**.
 
 
 
