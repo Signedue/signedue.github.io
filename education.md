@@ -1,7 +1,6 @@
-
 ---
 layout: default
-title: Education in Denmark
+title: Education
 ---
 
 # 🎓 Denmark’s Education Evolution (2009–2023)
