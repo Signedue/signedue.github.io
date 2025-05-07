@@ -5,19 +5,28 @@ title: Crime Rates
 
 # Crime Rates in Danish Municipalities
 
-This page gives an overview of crime rates in Danish municipalities from 2008 to 2024.
+This page gives an overview of crime rates in Danish municipalities from 2008 to 2024. Using public data from Statistics Denmark, we examine how crime levels have evolved — and how they differ across regions and demographic groups.
 
-We focus on the five municipalities with the highest average crime rates and the five with the lowest.
-The crime rate is calculated for each year by dividing the number of reported crimes by the population of the municipality that year. To allow for fair comparisons, we express this as the number of crimes per 10,000 residents.
-The goal is to provide a starting point for exploring how crime varies across the country and over time. 
+We focus on the five municipalities with the **highest** and **lowest average crime rates**, highlighting key patterns over time. The crime rate is calculated by dividing the number of reported crimes by the population each year and standardized as crimes per 10,000 residents to allow for fair comparisons.
 
-The visualizations are interactive to make it easier to compare and spot trends. While we don't aim to explain why the differences exist, this page can help highlight where patterns may be worth looking into further.
+Understanding where crime is most concentrated — and how it changes — is highly relevant today. Questions about safety, inequality, and local vulnerability remain central in both politics and public debate. For instance, *Justitsministeriet* has pointed to the need for targeted crime prevention in areas with persistent high crime ([Justitsministeriet, 2023](https://www.justitsministeriet.dk/wp-content/uploads/2023/11/Aftale-om-bandepakke-IV-%E2%80%93-Trygge-nabolag-i-hele-Danmark.pdf)).
 
+While this site focuses specifically on crime data, it is part of a broader project exploring **income**, **education**, and **social patterns** across Denmark. Together, these perspectives aim to provide a fuller picture of how life conditions differ geographically — and what these differences might mean.
 
-This chart shows the five municipalities in Denmark with the highest and lowest average crime rates from 2008 to 2024.
+The visualizations are interactive to help users compare and explore trends more easily. We don’t aim to explain why the differences exist, but we hope to make important patterns visible and spark further curiosity.
 
-- **Top 5**: Lolland, Brøndby, Guldborgsund, Ishøj, and Odense.
-- **Bottom 5**: Odder, Skanderborg, Hørsholm, Fanø, and Christiansø.
+This chart shows the five municipalities in Denmark with the highest and lowest average crime rates from 2008 to 2024:
+
+- **Top 5**: Lolland, Brøndby, Guldborgsund, Ishøj, and Odense.  
+- **Bottom 5**: Odder, Skanderborg, Hørsholm, Fanø, and Christiansø.  
+Crime rates are measured per 10,000 residents.
+---
+
+This chart shows the five municipalities in Denmark with the highest and lowest average crime rates from 2008 to 2024:
+
+- **Top 5**: Lolland, Brøndby, Guldborgsund, Ishøj, and Odense  
+- **Bottom 5**: Odder, Skanderborg, Hørsholm, Fanø, and Christiansø  
+
 Crime rates are measured per 10,000 residents.
 
 
@@ -83,8 +92,11 @@ We focus on the five municipalities with the **highest** and **lowest** average 
 
 In the Top 5 municipalities, crimes of violence are the most prominent category across the board — particularly in Lolland and Guldborgsund. Odense and Brøndby also show high levels of property crimes and violations of special acts. Lolland stands out with notably high values in almost every category.
 
-<iframe src="/crime_offence_bottom.html" width="100%" height="600" frameborder="0"></iframe>
 
+This focus on violence is particularly timely and socially significant. Recent figures from *Justitsministeriet* reveal that more than **57,000 Danes were subjected to violence** in the past year alone — an alarming number that highlights how widespread the problem is, even in a country often perceived as safe ([Justitsministeriet, 2024](https://www.justitsministeriet.dk/pressemeddelelse/flere-end-57000-danskere-har-vaeret-udsat-for-vold-det-seneste-aar/)). Such statistics underscore the need for continued attention to how violent crime is distributed geographically and how it evolves over time. By identifying municipalities where violence is especially prevalent, data-driven efforts can help inform more targeted crime prevention, resource allocation, and local safety policies.
+
+
+<iframe src="/crime_offence_bottom.html" width="100%" height="600" frameborder="0"></iframe>
 
 By contrast, in the Bottom 5 municipalities, crime levels are much lower across all categories. The most common offences here are sexual offences and traffic law violations, with only small variation between municipalities. Christiansø, being a very small municipality, shows extremely low or even zero incidents in most categories.
 
