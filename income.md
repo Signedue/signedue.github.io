@@ -15,9 +15,7 @@ This interactive Plotly chart compares disposable income for Denmark's top and b
 
 
 <div align="center">
-With education and crime rate, we are interested in identifying any patterns in income across different areas in Denmark, particularly in Copenhagen. The charts above display trends in disposable income for men and women in the top five and bottom five regions from 2007 to 2023.
-
-For men, the data reveals that Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk consistently rank among the highest income regions. Notably, Gentofte exhibits the highest male disposable income, approaching 700,000 DKK in 2023, while Billund shows a dramatic increase between 2022 and 2023. Conversely, Langeland, Lolland, Albertslund, Bornholm, and Ærø remain among the lowest-income regions for men throughout the period, with only modest growth observed over time.
+With education and crime rate, we are interested in identifying any patterns in income across different areas in Denmark, particularly in Copenhagen. The charts above display trends in disposable income for men and women in the top five and bottom five regions from 2007 to 2023. For men, the data reveals that Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk consistently rank among the highest income regions. Notably, Gentofte exhibits the highest male disposable income, approaching 700,000 DKK in 2023, while Billund shows a dramatic increase between 2022 and 2023. Conversely, Langeland, Lolland, Albertslund, Bornholm, and Ærø remain among the lowest-income regions for men throughout the period, with only modest growth observed over time.
 </div>
 
 <iframe src="income_trends_Women.html" width="100%" height="700px" frameborder="0"></iframe>
@@ -120,7 +118,8 @@ This **percentage-based perspective** emphasizes not just the **absolute income 
 
 
 
-
+ ## compound annual growth rate (CAGR) of income for men and women across the top 10 Danish municipalities
+ 
 ![image](https://github.com/user-attachments/assets/b403b002-4015-4ab7-98f0-293c706a3b98)
 
 
@@ -190,4 +189,4 @@ The gap in disposable income has **widened significantly** over the 17 years. De
 
 
 
-> This analysis sets the stage for further investigation into how education and crime rates may contribute to income inequality in Denmark.
+
