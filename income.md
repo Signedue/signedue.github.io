@@ -5,9 +5,9 @@ permalink: /income.html
 ---
 
 # 🌍 Income Trends Across Denmark (2007–2023)
-Explore the evolution of disposable and taxable incomes for both men and women in Denmark's regions over 16 years.
+___
 
-This interactive Plotly chart compares disposable income for Denmark's top and bottom five regions (2007–2023).
+Explore the evolution of disposable and taxable incomes for both men and women in Denmark's regions over 16 years. This interactive Plotly chart compares disposable income for Denmark's top and bottom five regions (2007–2023).
 
 <iframe src="income_trends_men.html" width="100%" height="700px" frameborder="0"></iframe>
 
@@ -29,6 +29,7 @@ These income disparities can potentially be linked to regional differences in ed
 </div>
 
 # 📊 Top and Bottom 5 Regions by Income (2007–2023)
+___
 
 <div align="center">
   <img src="top 5 male female dispossible income.png" alt="Top 5 Male and Female Disposable Income" width="80%">
@@ -70,6 +71,7 @@ These visualizations underscore the **income inequality across Danish municipali
 
 
 # 💸 Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
+___
 
 ![image](https://github.com/user-attachments/assets/524a5f3d-486f-43af-915f-77cd3930f62b)
 
@@ -98,6 +100,8 @@ This chart highlights **substantial regional variation** in men’s income growt
 
 
 # 📈 Top 10 Regions by % Income Growth (2007–2023)
+___
+
 ![image](https://github.com/user-attachments/assets/4f4e013d-87b0-4dd8-8edb-8f92c972ab42)
 
 
@@ -140,6 +144,7 @@ The bar chart illustrates the compound annual growth rate (CAGR) of income for m
 
 
 # Let's Deep Dive into the Copenhagen Income
+___
 
 <div align="center">
   <img src="income trend Copenhagen.png" alt="Copenhagen Income Treand" width="80%">
@@ -168,6 +173,7 @@ These trends highlight the importance of examining underlying contributors such 
 
 
 # Copenhagen Disposable Income Gap (Men - Women)
+___
 
 <div align="center">
   <img src="gender income gap.png" alt="Gender Income Gap" width="80%">
