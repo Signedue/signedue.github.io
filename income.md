@@ -74,7 +74,9 @@ These visualizations underscore the **income inequality across Danish municipali
 
 
 # Let's Deep Dive into the Copenhagen Income
-
+<div align="center">
+  <img src="income trend Copenhagen.png" alt="Top 5 Male and Female Disposable Income" width="80%">
+</div>
 
 
 ### 📈 Income Trends in Copenhagen (2007–2023)
