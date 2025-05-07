@@ -6,7 +6,7 @@ permalink: /income.html
 
 # Disposable income for the top and bottom five regions in Denmark (2007–2023) for Men
 
-This interactive Plotly chart compares disposable income for the top and bottom five regions in Denmark (2007–2023).
+This interactive Plotly chart compares disposable income for Denmark's top and bottom five regions (2007–2023).
 
 <iframe src="income_trends_men.html" width="100%" height="700px" frameborder="0"></iframe>
 
@@ -41,7 +41,7 @@ These income disparities can potentially be linked to regional differences in ed
 
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
 
-### 🗺️ Analysis of Regional Income Charts (2023)
+## 🗺️ Analysis of Regional Income Charts (2023)
 
 The graphs illustrate the **top 5 and bottom 5 regions** in Denmark based on **disposable and taxable income** for men and women in **2023**. The income is measured in Danish Kroner (DKK).
 
@@ -66,6 +66,31 @@ These visualizations underscore the **income inequality across Danish municipali
 
 
 
+
+
+
+![image](https://github.com/user-attachments/assets/524a5f3d-486f-43af-915f-77cd3930f62b)
+
+### 📊 Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
+
+The bar chart titled **"Top 10 Regions by Growth in Men Disposable Income (2007–2023)"** illustrates the increase in **disposable income** for men across ten regions in Denmark over a **16-year period**.
+
+The horizontal axis represents the **income growth in Danish Kroner (DKK)**, while the vertical axis lists the **regions**.
+
+#### 🔍 Key Insights
+
+- **Billund** tops the list with the most significant growth — men’s disposable income increased by **more than 360,000 DKK**, far exceeding other regions.
+- **Gentofte** and **Rudersdal** follow in second and third place, with income growth of approximately **310,000 DKK** and **270,000 DKK**, respectively.
+- Regions such as **Dragør, Lyngby-Taarbæk**, and **Hørsholm** experienced **moderate growth**, ranging between **160,000 to 180,000 DKK**.
+- **Frederiksberg, Furesø, Allerød**, and **Rebild** had the **lowest growth** among the top 10, each registering increases around **140,000 to 150,000 DKK**.
+
+#### 🧠 Interpretation
+
+This chart highlights **substantial regional variation** in men’s income growth across Denmark:
+
+- The dramatic lead by **Billund** may reflect **localized economic developments** — such as **investments, industry presence**, or **demographic shifts** — that disproportionately benefited men’s earnings.
+- More **modest growth** in regions like **Rebild** and **Allerød** still indicates positive change but on a smaller scale.
+- Overall, the chart suggests **growing economic disparities** between regions in terms of **male disposable income growth**.
 
 
 
