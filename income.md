@@ -57,14 +57,14 @@ The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposa
 
 These visualizations underscore the **income inequality across Danish municipalities**, offering a foundation for analyzing how **education and crime rates** may be influencing these disparities.
 
+<br>
 
 
 
 
 
 
-
-# 💸 Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
+## 💸 Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
 ___
 
 ![image](https://github.com/user-attachments/assets/524a5f3d-486f-43af-915f-77cd3930f62b)
@@ -91,7 +91,7 @@ This chart highlights **substantial regional variation** in men’s income growt
 
 
 
-# 📈 Top 10 Regions by % Income Growth (2007–2023)
+## 📈 Top 10 Regions by % Income Growth (2007–2023)
 ___
 
 ![image](https://github.com/user-attachments/assets/4f4e013d-87b0-4dd8-8edb-8f92c972ab42)
@@ -135,7 +135,7 @@ The bar chart illustrates the compound annual growth rate (CAGR) of income for m
 
 
 
-# Let's Deep Dive into the Copenhagen Income
+## Let's Deep Dive into the Copenhagen Income
 ___
 
 <div align="center">
@@ -164,7 +164,7 @@ These trends highlight the importance of examining underlying contributors such 
 
 
 
-# Copenhagen Disposable Income Gap (Men - Women)
+## Copenhagen Disposable Income Gap (Men - Women)
 ___
 
 <div align="center">
