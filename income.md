@@ -70,15 +70,30 @@ These disparities suggest potential links to education access, labor markets, an
 <div align="center">
   <img src="gender income gap.png" alt="Gender Income Gap" width="80%">
 </div>
+---
+title: Disposable Income Gap (Men - Women) in Copenhagen
+---
 
-Graph titled **"Disposable Income Gap (Men - Women)"** shows:
+# Disposable Income Gap (Men - Women) in Copenhagen
 
-- Gap started at 20,000 DKK in 2007.
-- Peaked near 50,000 DKK in 2023.
-- Steady increase post-2010.
-- Indicates widening gender disparity in earnings.
+The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** presents the disparity in disposable income between men and women in Copenhagen from **2007 to 2023**.
+
+### 📊 Key Observations
+
+- **2007**: Gap started at around **20,000 DKK**.
+- **2009**: Narrowed to **~16,000 DKK**.
+- **2010–2016**: Steady increase, reaching **30,000+ DKK**.
+- **2021**: Sharp rise to **~45,000 DKK**.
+- **2023**: Highest point, **~50,000 DKK**.
+
+### 📈 Interpretation
+
+The gap in disposable income has **widened significantly** over the 17 years. Despite minor fluctuations, men’s disposable income has consistently outpaced women’s, highlighting growing income inequality in Copenhagen.
 
 ---
+
+
+
 
 ## Top 10 Regions by Growth in Men’s Disposable Income (2007–2023)
 
