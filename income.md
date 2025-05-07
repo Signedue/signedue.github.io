@@ -127,9 +127,9 @@ The bar chart illustrates the compound annual growth rate (CAGR) of income for m
 
 
 
-##📍 Focus on Copenhagen: Income Trends (2007–2023)
+## 📍 Focus on Copenhagen: Income Trends (2007–2023)
 ___
-
+The line graph titled “Income Trends in Copenhagen (2007–2023)” presents the progression of both taxable and disposable income for men and women over a 17-year period. Overall, the graph reveals a steady upward trend in income across all categories, with men consistently earning more than women.
 <div align="center">
   <img src="income trend Copenhagen.png" alt="Copenhagen Income Treand" width="80%">
 </div>
@@ -137,9 +137,7 @@ ___
 
 ### 📈 Income Trends in Copenhagen (2007–2023)
 
-The line graph titled **“Income Trends in Copenhagen (2007–2023)”** presents the progression of both **taxable and disposable income** for men and women over a **17-year period**. 
 
-Overall, the graph reveals a **steady upward trend** in income across all categories, with **men consistently earning more than women**.
 
 - **Taxable income** for men starts at around **215,000 DKK in 2007** and climbs to **over 320,000 DKK by 2023**, marking the most significant growth among the four categories.
 - Women’s taxable income follows a similar upward trajectory but remains lower throughout, increasing from approximately **180,000 DKK to about 265,000 DKK** over the same period.
