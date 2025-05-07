@@ -6,13 +6,21 @@ permalink: /income.html
 
 # 🌍 Income Trends Across Denmark (2007–2023)
 ___
+💰 **Income isn’t just a number — it’s a reflection of opportunity, stability, and inequality.**  
+In Denmark, where the welfare model aims for equity, regional and gender-based income gaps still tell a deeper story.
 
-Explore the evolution of disposable and taxable incomes for both men and women in Denmark's regions over 16 years. This interactive Plotly chart compares disposable income for Denmark's top and bottom five regions (2007–2023).
+On this page, we explore **17 years of income data (2007–2023)** gathered from **Statistics Denmark** ([dst.dk/en](https://www.dst.dk/en)). The original dataset, labeled “Income Database,” was split into two subsets by gender — “Men” and “Women” — to allow for more focused analysis.
+
+This exploration aims to uncover:
+
+👨‍👩‍👧‍👦 **How income trends vary between men and women**  
+🗺️ **Which Danish regions are climbing — or falling — in terms of disposable income**  
+📈 **Where economic growth is accelerating — and where it’s stagnating**
+
+From metropolitan Copenhagen to rural Langeland, income data reveals how Denmark’s economic progress is being shared — or not — across its population.
+
 
 <iframe src="income_trends_men.html" width="100%" height="700px" frameborder="0"></iframe>
-
-
-
 
 
 <div align="justify">
