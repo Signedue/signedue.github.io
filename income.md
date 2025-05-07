@@ -41,8 +41,6 @@ These income disparities can potentially be linked to regional differences in ed
 
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
 
-
-
 ### 🗺️ Analysis of Regional Income Charts (2023)
 
 The graphs illustrate the **top 5 and bottom 5 regions** in Denmark based on **disposable and taxable income** for men and women in **2023**. The income is measured in Danish Kroner (DKK).
@@ -73,9 +71,17 @@ These visualizations underscore the **income inequality across Danish municipali
 
 
 
+
+
+
+
+
+
+
 # Let's Deep Dive into the Copenhagen Income
+
 <div align="center">
-  <img src="income trend Copenhagen.png" alt="Top 5 Male and Female Disposable Income" width="80%">
+  <img src="income trend Copenhagen.png" alt="Copenhagen Income Treand" width="80%">
 </div>
 
 
@@ -100,7 +106,7 @@ These trends highlight the importance of examining underlying contributors such 
 
 
 
-# Let's Deep Dive into the Copenhagen Disposable Income Gap (Men - Women)
+# Copenhagen Disposable Income Gap (Men - Women)
 
 <div align="center">
   <img src="gender income gap.png" alt="Gender Income Gap" width="80%">
