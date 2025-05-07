@@ -4,7 +4,7 @@ title: Income
 permalink: /income.html
 ---
 
-# Disposable income for the top and bottom five regions in Denmark (2007–2023) for Men
+# Income for the top and bottom five regions in Denmark (2007–2023) for Men
 
 This interactive Plotly chart compares disposable income for Denmark's top and bottom five regions (2007–2023).
 
