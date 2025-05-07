@@ -105,11 +105,12 @@ The bar chart titled **"Top 10 Regions by % Income Growth (2007–2023)"** shows
 - **Gentofte** and **Rudersdal** follow with strong but significantly lower growth rates, around 80% and 75%, respectively.
 - Regions such as Copenhagen, Frederiksberg, Rebild, and Dragør all experienced fairly similar percentage increases, clustered between 68% and 72%.
 - The lower end of the top 10 includes Lyngby-Taarbæk, Samsø, and Lemvig, each with growth rates just under 65%.
+  
 This percentage-based perspective emphasizes not just the absolute income gains but the relative improvement in disposable income for each region Billund again dominates, indicating it likely had both lower starting income levels and significant growth, making it an economic outlier in terms of development. The consistency in growth among the other regions suggests **widespread but uneven economic progress** across Denmark.
 
 
 
- ## 💸 Compound Annual Growth Rate (CAGR) of Income for Men & Women
+## 💸 Compound Annual Growth Rate (CAGR) of Income for Men & Women
  
 ![image](https://github.com/user-attachments/assets/b403b002-4015-4ab7-98f0-293c706a3b98)
 
