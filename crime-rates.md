@@ -118,10 +118,13 @@ Notably, female crime rates are most visible in Offences against property and Sp
 
 ## Conclusion
 
-This analysis has shown significant variation in crime rates across Danish municipalities over time, between genders, and by type of offence. Municipalities such as Lolland and Guldborgsund consistently experience higher crime rates, particularly driven by violent and property crimes, whereas municipalities like Christiansø and Fanø show minimal criminal activity overall. A strong and consistent gender gap is evident: men commit significantly more crimes than women across all offence types and locations. This pattern is robust even in low-crime areas, indicating that gender is a key determinant in crime data.
+This analysis has revealed striking differences in crime rates across Danish municipalities — not only in terms of **volume**, but also **volatility**, **type of offence**, and **gender patterns**. Municipalities like **Lolland** and **Guldborgsund** consistently stand out with significantly higher crime levels, especially in **violent and property-related offences**. Meanwhile, places like **Christiansø** and **Fanø** maintain exceptionally low crime rates across the board.
 
-Furthermore, high-crime municipalities also tend to exhibit greater volatility in yearly crime rates, suggesting more unstable or dynamic crime environments. On the other hand, municipalities with lower crime rates demonstrate more consistent patterns year over year.
+A consistent and notable gender divide was found throughout the analysis: **Men account for the vast majority of criminal activity**, regardless of region or crime type. This trend is evident even in low-crime municipalities, emphasizing how persistent the gender gap in crime involvement is — both statistically and socially.
 
+Beyond averages, we also examined the **stability** of crime rates over time. High-crime areas tended to show more **yearly fluctuations**, suggesting dynamic or unstable local conditions. In contrast, low-crime municipalities exhibited more **steady patterns**, which may reflect differences in **population size**, **policing**, or **social cohesion**.
+
+Together, these findings highlight the importance of **geographic and demographic context** in understanding crime. They also suggest that targeting interventions at the municipal level — especially in areas with volatile trends — may be both necessary and effective.
 
 ---
 
