@@ -167,7 +167,7 @@ We’ve seen the gender split in 2023 — but how did we get here?
 This chart compares the **percentage growth** in each type of education from 2008 to 2023, separated by gender. It shows not just where men and women are today, but **how fast each group is growing across different educational pathways**.
 
 <div style="margin-bottom: 10px;">
-  <iframe src="% Growth in Education Type by Gender.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
+  <iframe src="Growth in Education Type by Gender.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
 
 - **Women lead growth in nearly all academic education categories**, including Bachelor’s, Master’s, and professional programs.
