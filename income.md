@@ -111,7 +111,7 @@ This percentage-based perspective emphasizes not just the absolute income gains 
 
 
 ## 💸 Compound Annual Growth Rate (CAGR) of Income for Men & Women
- 
+___
 ![image](https://github.com/user-attachments/assets/b403b002-4015-4ab7-98f0-293c706a3b98)
 
 <div align="justify">
@@ -178,7 +178,7 @@ The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** present
 The gap in disposable income has **widened significantly** over the 17 years. Despite minor fluctuations, men’s disposable income has consistently outpaced women’s, highlighting growing income inequality in Copenhagen.
 
 
-## 🧠 Final Reflection
+## Final Reflection
 This deep dive into income trends across Denmark paints a picture of a nation where economic growth is visible, but not evenly shared.
 
 💰 **Income is rising overall** — particularly in wealthier urban regions like Copenhagen.  
