@@ -4,7 +4,7 @@ layout: default
 title: Education
 ---
 
-## Interactive Chart: Top vs Bottom Regions (Men)
+# Interactive Chart: Top vs Bottom Regions (Men)
 
 This interactive Plotly chart compares disposable income for the top and bottom five regions in Denmark (2007–2023).
 
@@ -27,7 +27,7 @@ Similarly, among women, Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsho
 These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with education attainment and crime statistics will help clarify these patterns.These disparities likely reflect differences in education, job opportunities, and crime rates.
 
 
-## Top 5 Regions by Disposable Income (Men & Women)
+# Top 5 Regions by Disposable Income (Men & Women)
 
 <div align="center">
   <img src="top 5 male female dispossible income.png" alt="Top 5 Male and Female Disposable Income" width="80%">
@@ -55,14 +55,14 @@ These disparities suggest potential links to education access, labor markets, an
 
 
 ---
-
 ## Gender Income Gap in Copenhagen
+
 <div align="center">
   <img src="gender income gap.png" alt="Gender Income Gap" width="80%">
 </div>
 
----
 
+---
 # Disposable Income Gap (Men - Women) in Copenhagen
 
 The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** presents the disparity in disposable income between men and women in Copenhagen from **2007 to 2023**.
@@ -79,10 +79,10 @@ The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** present
 
 The gap in disposable income has **widened significantly** over the 17 years. Despite minor fluctuations, men’s disposable income has consistently outpaced women’s, highlighting growing income inequality in Copenhagen.
 
----
+
 
 
 </div>
----
+
 
 > This analysis sets the stage for further investigation into how education and crime rates may contribute to income inequality in Denmark.
