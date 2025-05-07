@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Education
+title: Income
 permalink: /income.html
 ---
 
