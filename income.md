@@ -69,7 +69,7 @@ These visualizations underscore the income inequality across Danish municipaliti
 
 
 
-# 💸 Growth in Men’s Disposable Income (2007–2023): Top 10 Regions
+## 💸 Growth in Men’s Disposable Income (2007–2023): Top 10 Regions
 ___
 The bar chart titled "Top 10 Regions by Growth in Men Disposable Income (2007–2023)" illustrates the increase in disposable income for men across ten regions in Denmark over a 16-year period. The horizontal axis represents the income growth in Danish Kroner (DKK), while the vertical axis lists the regions.
 
@@ -109,7 +109,7 @@ This percentage-based perspective emphasizes not just the absolute income gains 
 
 
 
- ##💸 Compound Annual Growth Rate (CAGR) of Income for Men & Women
+ ## 💸 Compound Annual Growth Rate (CAGR) of Income for Men & Women
  
 ![image](https://github.com/user-attachments/assets/b403b002-4015-4ab7-98f0-293c706a3b98)
 
