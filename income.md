@@ -115,7 +115,7 @@ This percentage-based perspective emphasizes not just the absolute income gains 
 
 
 
- ## compound annual growth rate (CAGR) of income for men and women across the top 10 Danish municipalities
+ ## Compound annual growth rate (CAGR) of income for men and women across the top 10 Danish municipalities
  
 ![image](https://github.com/user-attachments/assets/b403b002-4015-4ab7-98f0-293c706a3b98)
 
