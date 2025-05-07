@@ -33,12 +33,11 @@ A major shift in recent years is the changing gender balance in education. Women
 
 While national progress is steady, regional disparities remain. Urban regions significantly outperform rural ones in education access and attainment.
 
-<div style="margin-bottom: 20px;">
-  <iframe src="top5_education_regions_men_women.html" width="100%" height="700" frameborder="0"></iframe>
+<div style="margin-bottom: 10px;">
+  <iframe src="top5_education_regions_men_women.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
-
-<div style="margin-bottom: 20px;">
-  <iframe src="bottom5_education_regions_men_women.html" width="100%" height="700" frameborder="0"></iframe>
+<div style="margin-bottom: 10px;">
+  <iframe src="bottom5_education_regions_men_women.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
 </div>
 *The most educated regions are centered around urban hubs, while rural regions struggle to keep pace.*
 
@@ -48,7 +47,9 @@ While national progress is steady, regional disparities remain. Urban regions si
 
 Not all education types have grown equally. Fields like STEM, health, and social sciences are on the rise, while vocational programs and some traditional fields have stagnated.
 
-<iframe src="growth%20in%20education%20categories.html" width="100%" height="700" frameborder="0"></iframe>
+<div style="margin-bottom: 10px;">
+  <iframe src="growth%20in%20education%20categories.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
+</div>
 *Women saw massive growth in higher education programs, while both genders showed declines in qualifying vocational education.*
 
 ---
@@ -56,9 +57,12 @@ Not all education types have grown equally. Fields like STEM, health, and social
 ## 🏆 Top & Bottom Education Fields
 
 Clear gendered patterns emerge in education type preferences — and systemic differences in which fields attract students.
-
-<iframe src="top5_education_types_men_women.html" width="100%" height="700" frameborder="0"></iframe>
-<iframe src="bottom5_education_types_men_women.html" width="100%" height="700" frameborder="0"></iframe>
+<div style="margin-bottom: 10px;">
+  <iframe src="top5_education_types_men_women.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
+</div>
+<div style="margin-bottom: 10px;">
+  <iframe src="bottom5_education_types_men_women.html" width="100%" height="500" frameborder="0" style="margin-bottom: 0px;"></iframe>
+</div>
 *These show where each gender is clustering — and which fields are facing declining interest.*
 
 ---
