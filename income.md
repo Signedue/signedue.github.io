@@ -27,11 +27,11 @@ These income disparities may be linked to regional differences in education leve
 # Top 5 Regions by Disposable Income (Men & Women)
 
 <div align="center">
-  <img src="top_5_male_female_disposable_income.png" alt="Top 5 Male and Female Disposable Income" width="80%">
+  <img src="top 5 male female dispossible income.png" alt="Top 5 Male and Female Disposable Income" width="80%">
 </div>
 
 <div align="center">
-  <img src="bottom_5_male_female_disposable_income.png" alt="Bottom 5 Male and Female Disposable Income" width="80%">
+  <img src="buttom 5 male female dispossible income.png" alt="Bottom 5 Male and Female Disposable Income" width="80%">
 </div>
 
 ### Chart: Top 5 and Bottom 5 Regions in 2023
