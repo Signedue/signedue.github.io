@@ -1,17 +1,18 @@
 ---
 layout: default
-title: Income Trends in Denmark
+title: Income
 permalink: /income.html
 ---
 
-## Income Trends in Denmark
 
 
-## Interactive Graph
 
-You can explore the interactive income trends chart here:
+## Interactive Chart: Top vs Bottom Regions (Men)
 
-👉 [View Chart: Top vs Bottom Regions (Men's Income)](income_trends_men.html)
+This interactive Plotly chart compares disposable income for the top and bottom five regions in Denmark (2007–2023).
+
+<iframe src="income_trends_men.html" width="100%" height="700px" frameborder="0"></iframe>
+
 
 
 
