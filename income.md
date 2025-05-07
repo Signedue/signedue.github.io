@@ -17,7 +17,7 @@ This interactive Plotly chart compares disposable income for the top and bottom 
 
 
 
-
+<div align="justify">
 With education and crime rate, we are interested in identifying any patterns in income across different areas in Denmark, particularly in Copenhagen. The charts above display trends in disposable income for men and women in the top five and bottom five regions from 2007 to 2023.
 
 For men, the data reveals that Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk consistently rank among the highest income regions. Notably, Gentofte exhibits the highest male disposable income, approaching 700,000 DKK in 2023, while Billund shows a dramatic increase between 2022 and 2023. Conversely, Langeland, Lolland, Albertslund, Bornholm, and Ærø remain among the lowest-income regions for men throughout the period, with only modest growth observed over time.
@@ -123,7 +123,7 @@ Graph titled **"Disposable Income Gap (Men - Women)"** shows:
 
 - **Billund**: Highest male income growth (~6.7%), but large gender gap.
 - **Gentofte & Lyngby-Taarbæk**: Balanced growth; in Gentofte, women slightly outpaced men.
-
+</div>
 ---
 
 > This analysis sets the stage for further investigation into how education and crime rates may contribute to income inequality in Denmark.
