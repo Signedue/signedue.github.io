@@ -140,17 +140,13 @@ The line graph titled “Income Trends in Copenhagen (2007–2023)” presents t
 
 
 
-- **Taxable income** for men starts at around **215,000 DKK in 2007** and climbs to **over 320,000 DKK by 2023**, marking the most significant growth among the four categories.
-- Women’s taxable income follows a similar upward trajectory but remains lower throughout, increasing from approximately **180,000 DKK to about 265,000 DKK** over the same period.
-- **Disposable income** for both genders also rises steadily. By 2023:
+- Taxable income for men starts at around 215,000 DKK in 2007 and climbs to over 320,000 DKK by 2023, marking the most significant growth among the four categories.
+- Women’s taxable income follows a similar upward trajectory but remains lower throughout, increasing from approximately 180,000 DKK to about 265,000 DKK over the same period.
+- Disposable income for both genders also rises steadily. By 2023:
   - Men’s disposable income exceeds **300,000 DKK**
   - Women’s reaches just above **255,000 DKK**
 
-While all groups see income growth, the **persistent gap between male and female income**—both taxable and disposable—indicates ongoing gender disparities in earnings.
-
-Minor fluctuations are observed around **2009 and 2021**, which could correspond to broader economic factors such as **financial crises or policy shifts**.
-
-These trends highlight the importance of examining underlying contributors such as **education access, labor market participation**, and **social policies** to better understand the persistent **income inequality** in Copenhagen. This analysis becomes especially relevant when comparing these trends with **regional differences observed across Denmark**.
+While all groups see income growth, the **persistent gap between male and female income**—both taxable and disposable—indicates ongoing gender disparities in earnings. Minor fluctuations are observed around 2009 and 2021, which could correspond to broader economic factors such as financial crises or policy shifts. These trends highlight the importance of examining underlying contributors such as education access, labor market participation, and social policies** to better understand the persistent income inequality in Copenhagen. This analysis becomes especially relevant when comparing these trends with **regional differences observed across Denmark.
 
 
 
