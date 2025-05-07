@@ -51,7 +51,7 @@ These disparities suggest potential links to education access, labor markets, an
 ## Gender Income Gap in Copenhagen
 
 <div align="center">
-  <img src="gender_income_gap.png" alt="Gender Income Gap" width="80%">
+  <img src="gender income gap.png" alt="Gender Income Gap" width="80%">
 </div>
 
 # Disposable Income Gap (Men - Women) in Copenhagen
