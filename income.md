@@ -30,22 +30,6 @@ Similarly, among women, Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsho
 These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with education attainment and crime statistics will help clarify these patterns.
 
 
-## Top and Bottom Regions by Disposable Income
-
-### Men
-
-The data reveals that:
-
-- **Top 5 Regions**: Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk.
-- **Highest Income**: Gentofte, nearing 700,000 DKK in 2023.
-- **Notable Spike**: Billund saw a dramatic increase from 2022 to 2023.
-- **Bottom 5 Regions**: Langeland, Lolland, Albertslund, Bornholm, and Ærø.
-
-### Women
-
-- **Top 5 Regions**: Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsholm.
-- **Gentofte**: Over 500,000 DKK in 2023.
-- **Bottom Regions**: Langeland, Lolland, Ærø, Læsø, and Morsø (generally below 220,000 DKK until 2022).
 
 These disparities likely reflect differences in education, job opportunities, and crime rates.
 
@@ -53,22 +37,41 @@ These disparities likely reflect differences in education, job opportunities, an
 
 ## Income Charts Summary
 
+
+
+## Top 5 Regions by Disposable Income (Men & Women)
+
+<div align="center">
+  <img src="top_5_male_female_disposable_income.png" alt="Top 5 Male and Female Disposable Income" width="80%">
+</div>
+
+<div align="center">
+  <img src="buttom_5_male_female_disposable_income.png" alt="Buttom 5 Male and Female Disposable Income" width="80%">
+</div>
+
+The chart above shows the top 5 regions in Denmark based on disposable income for men and women in 2023.
+
+The chart above shows the top 5 regions in Denmark based on disposable income for men and women in 2023.
+
+
+
 ### Chart: Top 5 and Bottom 5 Regions in 2023
 
-- **Top 5 Regions** (Gentofte, Rudersdal, Billund, Hørsholm, Lyngby-Taarbæk) show the highest levels of income.
-- **Bottom 5 Regions** (Langeland, Lolland, Albertslund, Bornholm, Ærø) remain below 300,000 DKK for men and 220,000 DKK for women.
-- Rudersdal and Hørsholm show the widest male-female income gap.
 
----
+The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
+•	Top 5 Regions (First Chart):
+o	Regions such as Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk demonstrate the highest levels of male and female disposable and taxable income.
+o	Gentofte stands out with the highest disposable income for both genders, nearing 700,000 DKK for men and over 500,000 DKK for women.
+o	Billund shows a notable spike in men's disposable income, suggesting a potential economic boom or demographic change.
+o	While men’s taxable income generally exceeds women’s across these regions, the gap is most pronounced in Rudersdal and Hørsholm.
+•	Bottom 5 Regions (Second Chart):
+o	Regions such as Langeland, Lolland, Albertslund, Bornholm, and Ærø display significantly lower income levels for both men and women.
+o	Disposable income in these areas remains under 300,000 DKK for men and below 220,000 DKK for women.
+o	Some regions (e.g., Morsø, Struer, Thisted) only have data for women’s taxable income, indicating either data limitations or demographic anomalies.
+o	The consistent income disparity between the top and bottom regions highlights potential socioeconomic divides.
+These visualizations underscore the income inequality across Danish municipalities, offering a foundation for analyzing how education and crime rates may be influencing these disparities.
 
-## Income Trends in Copenhagen (2007–2023)
 
-A line graph shows:
-
-- Steady rise in both taxable and disposable income.
-- Men's taxable income: 215,000 DKK in 2007 → 320,000+ DKK in 2023.
-- Women's taxable income: 180,000 DKK → ~265,000 DKK.
-- Persistent gender gap across the period.
 
 ---
 
