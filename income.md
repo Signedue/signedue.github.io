@@ -2,6 +2,7 @@
 ---
 layout: default
 title: Education
+permalink: /income.html
 ---
 
 # Interactive Chart: Top vs Bottom Regions (Men)
