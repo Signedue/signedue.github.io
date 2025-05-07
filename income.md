@@ -19,9 +19,9 @@ This exploration aims to uncover:
 
 From metropolitan Copenhagen to rural Langeland, income data reveals how Denmark’s economic progress is being shared — or not — across its population.
 
-
+<div align="justify">
 <iframe src="income_trends_men.html" width="100%" height="700px" frameborder="0"></iframe>
-
+</div>
 
 <div align="justify">
 With education and crime rate, we are interested in identifying any patterns in income across different areas in Denmark, particularly in Copenhagen. The charts above display trends in disposable income for men and women in the top five and bottom five regions from 2007 to 2023. For men, the data reveals that Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk consistently rank among the highest income regions. Notably, Gentofte exhibits the highest male disposable income, approaching 700,000 DKK in 2023, while Billund shows a dramatic increase between 2022 and 2023. Conversely, Langeland, Lolland, Albertslund, Bornholm, and Ærø remain among the lowest-income regions for men throughout the period, with only modest growth observed over time.
@@ -33,10 +33,10 @@ With education and crime rate, we are interested in identifying any patterns in 
 
 <div align="justify">
 Similarly, among women, Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsholm lead in disposable income. Gentofte again tops the list with a sharp rise to over 500,000 DKK in 2023, and Vejen also sees a notable spike that year. On the lower end, regions such as Langeland, Lolland, Ærø, Læsø, and Morsø exhibit significantly lower incomes, generally below 220,000 DKK until 2022, with only slight upward trends.
-These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with education attainment and crime statistics will help clarify these patterns.These disparities likely reflect differences in education, job opportunities, and crime rates.
+These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with educational attainment and crime statistics will help clarify these patterns. These disparities likely reflect differences in education, job opportunities, and crime rates.
 </div>
 
-# 🗺️ Analysis of Regional Income
+# 🗺️ Analysis of Regional Income Comparison
 ___
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK). The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
 
