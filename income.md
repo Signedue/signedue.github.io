@@ -39,20 +39,20 @@ ___
   <img src="buttom 5 male female dispossible income.png" alt="Buttom 5 Male and Female Disposable Income" width="80%">
 </div>
 
-The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK). The graphs illustrate the **top 5 and bottom 5 regions** in Denmark based on **disposable and taxable income** for men and women in **2023**. The income is measured in Danish Kroner (DKK).
+The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK). The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
 
 ### 🔝 Top 5 Regions (First Chart)
 
-- Regions such as **Gentofte, Rudersdal, Billund, Hørsholm**, and **Lyngby-Taarbæk** demonstrate the highest levels of male and female disposable and taxable income.
-- **Gentofte** stands out with the highest disposable income for both genders — nearing **700,000 DKK for men** and **over 500,000 DKK for women**.
+- Regions such as Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk demonstrate the highest levels of male and female disposable and taxable income.
+- **Gentofte** stands out with the highest disposable income for both genders — nearing 700,000 DKK for men and over 500,000 DKK for women.
 - **Billund** shows a notable spike in men’s disposable income, suggesting a potential economic boom or demographic change.
 - While men’s taxable income generally exceeds women’s across these regions, the **income gap is most pronounced in Rudersdal and Hørsholm**.
 
 ### 🔻 Bottom 5 Regions (Second Chart)
 
-- Regions such as **Langeland, Lolland, Albertslund, Bornholm**, and **Ærø** display significantly lower income levels for both men and women.
-- Disposable income in these areas remains **under 300,000 DKK for men** and **below 220,000 DKK for women**.
-- Some regions — such as **Morsø, Struer**, and **Thisted** — only have data for women’s taxable income, indicating either data limitations or demographic anomalies.
+- Regions such as Langeland, Lolland, Albertslund, Bornholm, and Ærø display significantly lower income levels for both men and women.
+- Disposable income in these areas remains under 300,000 DKK for men and below 220,000 DKK for women.
+- Some regions — such as Morsø, Struer, and Thisted — only have data for women’s taxable income, indicating either data limitations or demographic anomalies.
 - The consistent disparity between top and bottom regions highlights **persistent socioeconomic divides**.
 
 These visualizations underscore the **income inequality across Danish municipalities**, offering a foundation for analyzing how **education and crime rates** may be influencing these disparities.
@@ -69,9 +69,7 @@ ___
 
 ![image](https://github.com/user-attachments/assets/524a5f3d-486f-43af-915f-77cd3930f62b)
 
-The bar chart titled **"Top 10 Regions by Growth in Men Disposable Income (2007–2023)"** illustrates the increase in **disposable income** for men across ten regions in Denmark over a **16-year period**.
-
-The horizontal axis represents the **income growth in Danish Kroner (DKK)**, while the vertical axis lists the **regions**.
+The bar chart titled **"Top 10 Regions by Growth in Men Disposable Income (2007–2023)"** illustrates the increase in **disposable income** for men across ten regions in Denmark over a **16-year period**. The horizontal axis represents the **income growth in Danish Kroner (DKK)**, while the vertical axis lists the **regions**.
 
 #### 🔍 Key Insights
 
