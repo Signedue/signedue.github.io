@@ -39,9 +39,6 @@ These income disparities can potentially be linked to regional differences in ed
   <img src="buttom 5 male female dispossible income.png" alt="Buttom 5 Male and Female Disposable Income" width="80%">
 </div>
 
-The chart above shows the top 5 regions in Denmark based on disposable income for men and women in 2023.
-### Chart: Top 5 and Bottom 5 Regions in 2023
-
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
 
 
@@ -51,20 +48,15 @@ The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposa
 - **Bottom Regions**: Ærø, Langeland, and Lolland show the lowest incomes, with disposable income under 300,000 DKK for men.
 - Some regions have missing data for men, possibly due to demographics or reporting limitations.
 
-### Socioeconomic Context
 
-These disparities suggest potential links to education access, labor markets, and crime statistics across municipalities.
+# Disposable Income Gap (Men - Women) in Copenhagen
 
-
-
-## Gender Income Gap in Copenhagen
 
 <div align="center">
   <img src="gender income gap.png" alt="Gender Income Gap" width="80%">
 </div>
 
 
-# Disposable Income Gap (Men - Women) in Copenhagen
 
 The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** presents the disparity in disposable income between men and women in Copenhagen from **2007 to 2023**.
 
