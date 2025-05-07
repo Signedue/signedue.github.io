@@ -42,20 +42,67 @@ These income disparities can potentially be linked to regional differences in ed
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
 
 
-### Key Insights
 
-- **Top Regions**: Gentofte leads in disposable income; noticeable gender income gaps in Rudersdal and Hørsholm.
-- **Bottom Regions**: Ærø, Langeland, and Lolland show the lowest incomes, with disposable income under 300,000 DKK for men.
-- Some regions have missing data for men, possibly due to demographics or reporting limitations.
+### 🗺️ Analysis of Regional Income Charts (2023)
+
+The graphs illustrate the **top 5 and bottom 5 regions** in Denmark based on **disposable and taxable income** for men and women in **2023**. The income is measured in Danish Kroner (DKK).
+
+#### 🔝 Top 5 Regions (First Chart)
+
+- Regions such as **Gentofte, Rudersdal, Billund, Hørsholm**, and **Lyngby-Taarbæk** demonstrate the highest levels of male and female disposable and taxable income.
+- **Gentofte** stands out with the highest disposable income for both genders — nearing **700,000 DKK for men** and **over 500,000 DKK for women**.
+- **Billund** shows a notable spike in men’s disposable income, suggesting a potential economic boom or demographic change.
+- While men’s taxable income generally exceeds women’s across these regions, the **income gap is most pronounced in Rudersdal and Hørsholm**.
+
+#### 🔻 Bottom 5 Regions (Second Chart)
+
+- Regions such as **Langeland, Lolland, Albertslund, Bornholm**, and **Ærø** display significantly lower income levels for both men and women.
+- Disposable income in these areas remains **under 300,000 DKK for men** and **below 220,000 DKK for women**.
+- Some regions — such as **Morsø, Struer**, and **Thisted** — only have data for women’s taxable income, indicating either data limitations or demographic anomalies.
+- The consistent disparity between top and bottom regions highlights **persistent socioeconomic divides**.
+
+These visualizations underscore the **income inequality across Danish municipalities**, offering a foundation for analyzing how **education and crime rates** may be influencing these disparities.
 
 
-# Disposable Income Gap (Men - Women) in Copenhagen
 
+
+
+
+
+
+
+
+
+# Let's Deep Dive into the Copenhagen Income
+
+
+
+### 📈 Income Trends in Copenhagen (2007–2023)
+
+The line graph titled **“Income Trends in Copenhagen (2007–2023)”** presents the progression of both **taxable and disposable income** for men and women over a **17-year period**. 
+
+Overall, the graph reveals a **steady upward trend** in income across all categories, with **men consistently earning more than women**.
+
+- **Taxable income** for men starts at around **215,000 DKK in 2007** and climbs to **over 320,000 DKK by 2023**, marking the most significant growth among the four categories.
+- Women’s taxable income follows a similar upward trajectory but remains lower throughout, increasing from approximately **180,000 DKK to about 265,000 DKK** over the same period.
+- **Disposable income** for both genders also rises steadily. By 2023:
+  - Men’s disposable income exceeds **300,000 DKK**
+  - Women’s reaches just above **255,000 DKK**
+
+While all groups see income growth, the **persistent gap between male and female income**—both taxable and disposable—indicates ongoing gender disparities in earnings.
+
+Minor fluctuations are observed around **2009 and 2021**, which could correspond to broader economic factors such as **financial crises or policy shifts**.
+
+These trends highlight the importance of examining underlying contributors such as **education access, labor market participation**, and **social policies** to better understand the persistent **income inequality** in Copenhagen. This analysis becomes especially relevant when comparing these trends with **regional differences observed across Denmark**.
+
+
+
+
+# Let's Deep Dive into the Copenhagen Disposable Income Gap (Men - Women)
 
 <div align="center">
   <img src="gender income gap.png" alt="Gender Income Gap" width="80%">
 </div>
-
 
 
 The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** presents the disparity in disposable income between men and women in Copenhagen from **2007 to 2023**.
