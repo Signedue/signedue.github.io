@@ -34,7 +34,7 @@ Similarly, among women, Gentofte, Vejen, Rudersdal, Lyngby-Taarbæk, and Hørsho
 These income disparities can potentially be linked to regional differences in education levels, employment opportunities, and crime rates. Higher-income municipalities may have better educational institutions and lower crime, contributing to overall economic prosperity. In contrast, lower-income regions may face systemic challenges that inhibit income growth. Further correlation analysis with educational attainment and crime statistics will help clarify these patterns. These disparities likely reflect differences in education, job opportunities, and crime rates.
 </div>
 
-# 🗺️ Analysis of Regional Income Comparison
+# 🗺️ 🏙️ Regional Income Disparities: Top vs. Bottom 5 Regions
 ___
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK). The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
 
@@ -69,7 +69,7 @@ These visualizations underscore the income inequality across Danish municipaliti
 
 
 
-## 💸 Top 10 Regions by Growth in Men’s Disposable Income
+## 💸 Growth in Men’s Disposable Income (2007–2023): Top 10 Regions
 ___
 The bar chart titled "Top 10 Regions by Growth in Men Disposable Income (2007–2023)" illustrates the increase in disposable income for men across ten regions in Denmark over a 16-year period. The horizontal axis represents the income growth in Danish Kroner (DKK), while the vertical axis lists the regions.
 
@@ -91,7 +91,7 @@ The dramatic lead by **Billund** may reflect localized economic developments —
 
 
 
-## 📈 Top 10 Regions by % Income Growth (2007–2023)
+## 📈 Percentage Growth in Disposable Income: Top 10 Regions (2007–2023)
 ___
 
 ![image](https://github.com/user-attachments/assets/4f4e013d-87b0-4dd8-8edb-8f92c972ab42)
@@ -115,7 +115,7 @@ This percentage-based perspective emphasizes not just the absolute income gains 
 
 
 
- ## Compound annual growth rate (CAGR) of income for men and women across the top 10 Danish municipalities
+ ##💸 Compound Annual Growth Rate (CAGR) of Income for Men & Women
  
 ![image](https://github.com/user-attachments/assets/b403b002-4015-4ab7-98f0-293c706a3b98)
 
@@ -133,7 +133,7 @@ The bar chart illustrates the compound annual growth rate (CAGR) of income for m
 
 
 
-## Let's Deep Dive into the Copenhagen Income
+##📍 Focus on Copenhagen: Income Trends (2007–2023)
 ___
 
 <div align="center">
@@ -162,7 +162,7 @@ These trends highlight the importance of examining underlying contributors such 
 
 
 
-## Copenhagen Disposable Income Gap (Men - Women)
+## 📉 Gender Income Gap in Copenhagen: Disposable Income (2007–2023)
 ___
 
 <div align="center">
