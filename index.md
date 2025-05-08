@@ -3,100 +3,90 @@ layout: default
 title: Combined Overview
 ---
 
-# Social Patterns in Denmark: Crime, Income & Education
+# Combined View: Crime, Income, and Education in Denmark
 
-This page brings together insights from our three thematic analyses — **crime**, **income**, and **education** — to explore how these dimensions interact across Danish municipalities. Using public data from Statistics Denmark, we investigate whether high crime correlates with low income or education, and where Denmark’s social inequalities are most visible.
+This page brings together our three separate analyses of **crime rates**, **income levels**, and **educational attainment** in Danish municipalities — to explore how these dimensions interact. Can we detect meaningful **patterns** when we compare them side by side? Do municipalities with high crime also face low education or income? Or are the relationships more complex?
 
----
-
-## Connecting the Dots: A Multi-Dimensional View
-
-While each topic is analyzed in depth on its own page, this section offers an integrated perspective.
-
-We focus on municipalities that repeatedly appear at the **extremes**:
-- High or low **crime rates**
-- High or low **income**
-- High or low **educational attainment**
-
-Understanding these overlaps can help us answer broader questions:
-- Do areas with **low income and education** also have **higher crime**?
-- Are urban municipalities more equal or more divided?
-- Which regions face **multiple social challenges**, and which are thriving?
+Our goal is not to prove causality — but to spark curiosity and provide a more holistic view of regional disparities across Denmark.
 
 ---
 
-## Revisited: Crime, Income & Education in Top/Bottom Regions
+## Top vs Bottom 5 Municipalities – A Cross-Domain Comparison
 
-Let's look at five municipalities that show up consistently in our analyses:
+We begin by zooming in on the **top 5** and **bottom 5** municipalities in each of the three domains: crime, education, and income.
 
-### Lolland, Brøndby, Guldborgsund, Ishøj, Odense
-These municipalities had **high crime rates**, and many also rank **low in income** and **education**.
+### Crime Rates (2008–2024)
 
-<iframe src="/crime_rates_plotly.html" width="100%" height="500px" frameborder="0"></iframe>
+- **Top 5** (highest crime): Lolland, Brøndby, Guldborgsund, Ishøj, Odense  
+- **Bottom 5** (lowest crime): Christiansø, Fanø, Hørsholm, Skanderborg, Odder
 
-<iframe src="buttom 5 male female dispossible income.png" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="/crime_rates_plotly.html" width="100%" height="500" frameborder="0"></iframe>
 
-<iframe src="Bottom 10 Least Educated Regions.html" width="100%" height="500px" frameborder="0"></iframe>
+### Educational Attainment (2023)
 
-These areas face **multiple disadvantages**, indicating a strong correlation between **social inequality and crime**. For example:
-- **Lolland** consistently ranks low in income and education, and high in violent crime.
-- **Odense** appears more mixed: high crime, but relatively higher income and education levels.
+- **Top 5** (most educated): Copenhagen, Aarhus, Aalborg, Odense, Vejle  
+- **Bottom 5** (least educated): Christiansø, Læsø, Fanø, Samsø, Ærø
 
----
+<iframe src="/Top 10 Educated Regions.html" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="/Bottom 10 Least Educated Regions.html" width="100%" height="500" frameborder="0"></iframe>
 
-### Christiansø, Fanø, Hørsholm, Skanderborg, Odder
-On the opposite end, these municipalities have **very low crime**, often paired with **higher income** and **better education** outcomes.
+### Income Levels (2023)
 
-<iframe src="/crime_timeseries_bottom5.html" width="100%" height="500px" frameborder="0"></iframe>
+- **Top 5** (highest income): Gentofte, Rudersdal, Lyngby-Taarbæk, Hørsholm, Dragør  
+- **Bottom 5** (lowest income): Langeland, Lolland, Bornholm, Ishøj, Guldborgsund
 
-<iframe src="top 5 male female dispossible income.png" width="100%" height="500px" frameborder="0"></iframe>
-
-<iframe src="Top 10 Educated Regions.html" width="100%" height="500px" frameborder="0"></iframe>
-
-These places represent areas of **social advantage**. For instance:
-- **Hørsholm** and **Skanderborg** perform strongly on all three dimensions.
-- **Christiansø** has low crime but fewer educated residents due to its very small population size.
+<iframe src="income_trends_men.html" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="income_trends_Women.html" width="100%" height="500px" frameborder="0"></iframe>
 
 ---
 
-## Does Income Inequality Link to Crime?
+## Do the Patterns Overlap?
 
-We can also compare **gender-based income gaps** to crime rates.
+Now that we’ve seen each domain separately, let’s explore how they intersect.
 
-<iframe src="gender income gap.png" width="100%" height="450px" frameborder="0"></iframe>
+- **Lolland** and **Guldborgsund** appear in both the **top 5 for crime** and **bottom 5 for income**, suggesting deeper structural challenges.
+- **Ishøj** also shows up with **high crime and low income**, strengthening this association.
+- **Odense** is among the **top 5 for crime** but also in the **top 5 for education**, indicating that educational progress may not be sufficient to reduce crime alone.
+- **Christiansø** and **Fanø** appear in the **bottom 5 across crime and education**, but this may be due to their small population sizes — rather than systemic issues.
 
-<iframe src="/crime_gender_top.html" width="100%" height="450px" frameborder="0"></iframe>
-
-Both plots show persistent **gender inequality**:
-- **Men earn more** and **commit more crimes** — even in high-income areas.
-- Regions with wide **income gaps** may also face social tensions contributing to higher crime levels.
-
----
-
-## Education & Crime: A Causal Relationship?
-
-Education may play a **preventive role** in criminality:
-- Higher education correlates with **lower crime**.
-- Low education areas often face **higher volatility** in crime trends.
-
-<iframe src="Growth in Education Type by Gender.html" width="100%" height="500px" frameborder="0"></iframe>
-
-<iframe src="/crime_volatility_top_bottom.html" width="100%" height="500px" frameborder="0"></iframe>
-
-For example:
-- Regions with **fast-growing education** tend to have **lower crime volatility**.
-- **Fanø**, which has educational challenges, also has fluctuating crime patterns.
+A key insight here is that **not all regions follow the same patterns**. High education doesn’t always guarantee low crime, and income alone doesn’t explain everything. But there are municipalities — like **Lolland, Ishøj, and Guldborgsund** — where **multiple disadvantages converge**.
 
 ---
 
-## Final Thoughts
+## Deep Dive: Lolland vs Gentofte
 
-By combining crime, income, and education data, we observe:
+Let’s compare two symbolic opposites:
 
-- A **clear connection** between social disadvantage and crime.
-- Municipalities that struggle on one dimension often struggle on others.
-- Education and income appear to be **protective factors** against criminality.
-- Gender remains a major axis of inequality across all themes.
+### Lolland
+- Among the **highest crime rates** in Denmark.
+- Among the **lowest income** municipalities.
+- Not in the top ranks of education.
 
-This multi-dimensional view helps move beyond isolated statistics toward a more **holistic understanding** of social inequality in Denmark — one that can inform both research and policy.
+### Gentofte
+- Among the **highest income** municipalities.
+- High levels of **educational attainment**.
+- Not in the top 5 for lowest crime, but far from high-crime areas.
 
+This contrast helps frame a broader story: **structural advantage compounds across domains** — and disadvantage can, too.
+
+---
+
+## Crime vs Education & Income: Hypotheses
+
+From this comparison, we can generate hypotheses for further exploration:
+
+- Do **low education levels** correlate with **higher crime**?
+- Does **higher income** consistently align with **lower crime**?
+- Are **gender differences** in crime mirrored in **income gaps**?
+
+While our dataset doesn’t allow for strong causal conclusions, visualizing these overlaps gives a clearer sense of where **multidimensional disadvantage** might be occurring — and where interventions could be focused.
+
+---
+
+## Conclusion
+
+This combined view shows that analyzing **crime**, **income**, and **education** in isolation misses important connections. When we bring them together:
+
+- Patterns of inequality become more visible
+- Certain municipalities emerge as structurally challenged
+- Others reveal resilience or surprising contradictions
