@@ -32,7 +32,7 @@ We begin by zooming in on the **top 5** and **bottom 5** municipalities in each 
 ## Income Trends Summary (2007–2023)
 
 
-![image](https://github.com/user-attachments/assets/c83dcb7f-43b1-442e-8cd1-035715bbcf67)
+<iframe src="/income_trends_Men_and_Women.html" width="100%" height="500" frameborder="0"></iframe>
 
 
 
