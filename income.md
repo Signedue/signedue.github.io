@@ -27,7 +27,7 @@ The charts highlight disposable income trends for men and women in Denmark’s t
 
 </div>
 
-<iframe src="income_trends_Women.html" width="100%" height="100%" frameborder="0"></iframe>
+<iframe src="income_trends_Women.html" width="100%" height="700px" frameborder="0"></iframe>
 
 For women, Gentofte again leads, surpassing 500,000 DKK by 2023. Rudersdal, Hørsholm, Lyngby-Taarbæk, and Furesø also show robust growth, although at lower levels than their male counterparts. On the other end, Langeland, Lolland, Ærø, Læsø, and Morsø have persistently low incomes, just crossing 200,000 DKK in recent years.
 
@@ -37,7 +37,7 @@ A noticeable gender income gap exists across all regions, with men earning signi
 
 These patterns likely correlate with regional differences in education levels, crime rates, and employment opportunities. High-income regions may benefit from better schooling and lower crime, creating a more favorable economic environment. In contrast, persistent low income in some municipalities suggests structural disadvantages that limit economic mobility. These findings warrant deeper analysis using crime and education data to confirm such relationships and inform policy strategies for reducing inequality.
 </div>
-<iframe src="income_trends_Men_and_Women.html" width="100%" height="700px" frameborder="0"></iframe>
+<iframe src="income_trends_Men_and_Women.html" width="80%" height="700px" frameborder="0"></iframe>
 
 
 <div align="justify">
