@@ -30,13 +30,26 @@ We begin by zooming in on the **top 5** and **bottom 5** municipalities in each 
 <iframe src="/Top 10 Educated Regions.html" width="100%" height="500" frameborder="0"></iframe>
 <iframe src="/Bottom 10 Least Educated Regions.html" width="100%" height="500" frameborder="0"></iframe>
 
-### Income Levels (2023)
+## Income Trends Summary (2007–2023)
 
-- **Top 5** (highest income): Gentofte, Rudersdal, Lyngby-Taarbæk, Hørsholm, Dragør  
-- **Bottom 5** (lowest income): Langeland, Lolland, Bornholm, Ishøj, Guldborgsund
 
-<iframe src="income_trends_men.html" width="100%" height="500px" frameborder="0"></iframe>
-<iframe src="income_trends_Women.html" width="100%" height="500px" frameborder="0"></iframe>
+![image](https://github.com/user-attachments/assets/c83dcb7f-43b1-442e-8cd1-035715bbcf67)
+
+
+
+### 🟢 Top Regions (e.g., Gentofte, Rudersdal, Hørsholm)
+
+- **Consistent Lead**: These municipalities have maintained a significantly higher level of combined disposable income over the entire period.
+- **Steady Growth**: There's a clear upward trend, with noticeable spikes around 2015 and again between 2020 and 2023 — possibly linked to economic policy changes, demographic shifts, or pandemic-related impacts.
+- **Gentofte** stands out with the highest income, exceeding **1.2 million DKK** by 2023.
+
+### 🔴 Bottom Regions (e.g., Lolland, Læsø, Bornholm)
+
+- **Persistent Gap**: These regions consistently show lower combined income levels — less than half that of top performers.
+- **Slower Growth**: Although there's overall growth, it's much less steep. Economic disparity appears stable or even widening over time.
+- **Sudden Jumps**: Some regions like **Billund** (previously in the bottom tier) show a sharp increase in 2023 — worth investigating for potential local economic developments.
+
+
 
 ---
 
