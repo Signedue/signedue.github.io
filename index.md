@@ -15,20 +15,20 @@ This page brings together our three separate analyses of crime rates, income lev
 
 We begin by zooming in on the top 5 and bottom 5 municipalities in each of the three domains: crime, education, and income.
 
-### 📊 Crime Rates (2008–2024)
+### Crime Rates (2008–2024)
 - **Top 5 (highest crime)**: Lolland, Brøndby, Guldborgsund, Ishøj, Odense  
 - **Bottom 5 (lowest crime)**: Christiansø, Fanø, Hørsholm, Skanderborg, Odder
 
 <iframe src="/crime_rates_plotly.html" width="100%" height="500" frameborder="0"></iframe>
 
-### 🎓 Educational Attainment (2023)
+### Educational Attainment (2023)
 - **Top 5 (most educated)**: Copenhagen, Aarhus, Aalborg, Odense, Vejle  
 - **Bottom 5 (least educated)**: Christiansø, Læsø, Fanø, Samsø, Ærø
 
 <iframe src="/Top 10 Educated Regions.html" width="100%" height="500" frameborder="0"></iframe>  
 <iframe src="/Bottom 10 Least Educated Regions.html" width="100%" height="500" frameborder="0"></iframe>
 
-### 💰 Income Trends Summary (2007–2023)
+### Income Trends Summary (2007–2023)
 
 <iframe src="income_trends_Men_and_Women.html" width="100%" height="700" frameborder="0"></iframe>
 
