@@ -27,8 +27,7 @@ We begin by zooming in on the **top 5** and **bottom 5** municipalities in each 
 - **Top 5** (most educated): Copenhagen, Aarhus, Aalborg, Odense, Vejle  
 - **Bottom 5** (least educated): Christiansø, Læsø, Fanø, Samsø, Ærø
 
-<iframe src="/Top 10 Educated Regions.html" width="100%" height="500" frameborder="0"></iframe>
-<iframe src="/Bottom 10 Least Educated Regions.html" width="100%" height="500" frameborder="0"></iframe>
+
 
 ## Income Trends Summary (2007–2023)
 
