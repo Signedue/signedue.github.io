@@ -38,6 +38,19 @@ A noticeable gender income gap exists across all regions, with men earning signi
 These patterns likely correlate with regional differences in education levels, crime rates, and employment opportunities. High-income regions may benefit from better schooling and lower crime, creating a more favorable economic environment. In contrast, persistent low income in some municipalities suggests structural disadvantages that limit economic mobility. These findings warrant deeper analysis using crime and education data to confirm such relationships and inform policy strategies for reducing inequality.
 </div>
 
+![image](https://github.com/user-attachments/assets/c83dcb7f-43b1-442e-8cd1-035715bbcf67)
+
+
+<div align="justify">
+The combined disposable income trends from 2007 to 2023 reveal a clear and persistent economic divide between the top and bottom regions in Denmark. Municipalities such as Gentofte, Rudersdal, and Hørsholm consistently lead in combined income levels, reflecting a high concentration of wealth and economic opportunity. Gentofte, in particular, stands out with a dramatic increase, reaching over 1.2 million DKK by 2023. These top regions show steady and robust growth across the years, with notable surges around 2015 and again in the 2020–2023 period—potentially influenced by economic policy changes, urban development, or pandemic-related dynamics.
+
+In contrast, the bottom regions, including Lolland, Læsø, Bornholm, and Ærø, maintain significantly lower income levels throughout the same period. Although there is some upward movement, the rate of increase is markedly slower, indicating that these areas have not experienced the same economic momentum. The disparity between top and bottom regions has widened over time, particularly in the last few years, highlighting a deepening inequality in disposable income across the country.
+
+Interestingly, Billund, which has historically ranked among the lower-income regions, shows a sharp and unexpected rise in 2023, suggesting a potential shift in local economic activity or population dynamics that warrants further investigation. Overall, the data paints a picture of uneven economic development, where affluent municipalities continue to outpace their less prosperous counterparts, raising important questions about regional equity and long-term socioeconomic balance.
+</div>
+
+
+
 #  🏙️ Regional Income Disparities: Top vs. Bottom 5 Regions
 ___
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK). The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
