@@ -27,7 +27,7 @@ The charts highlight disposable income trends for men and women in Denmark’s t
 
 </div>
 
-<iframe src="income_trends_Women.html" width="100%" height="700px" frameborder="0"></iframe>
+<iframe src="income_trends_Women.html" width="100%" height="100%" frameborder="0"></iframe>
 
 For women, Gentofte again leads, surpassing 500,000 DKK by 2023. Rudersdal, Hørsholm, Lyngby-Taarbæk, and Furesø also show robust growth, although at lower levels than their male counterparts. On the other end, Langeland, Lolland, Ærø, Læsø, and Morsø have persistently low incomes, just crossing 200,000 DKK in recent years.
 
