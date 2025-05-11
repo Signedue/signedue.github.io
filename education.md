@@ -3,18 +3,13 @@ layout: default
 title: Education
 ---
 
-# 🎓 Education in Denmark: Who's Learning, and Where?
+# Education in Denmark: Who's Learning, and Where?
 
-Education is one of the pillars of Denmark's welfare state, a gateway to equal opportunity and personal growth. But while formal education is broadly accessible, not all groups or regions benefit equally.
-
-In this page, we explore **15 years of education data** (2008–2023) from across Denmark. The database that was used in this analysis is from Statistics Denmark - https://www.dst.dk/en which was saved as "Database" and after that it was divided to two different datasets per sex ("Men" & "Women"). The primary goals of this analyis is to understand:
-- 👩‍🎓 How gender trends have shifted in education
-- 🗺️ Which regions are leading — and lagging — in educational attainment
-- 📚 What types of education are growing, and which are being left behind
-
-
-
----
+In this page, we explore **15 years of education data** (2008–2023) from across Denmark. The database that was used in this analysis is from Statistics Denmark - https://www.dst.dk/en which was saved as "Database" and after that I created two new datasets per sex ("Men" & "Women"). The primary goals of this analyis is to understand:
+We focus on three main questions:
+- How have gender dynamics shifted in education?
+- Which regions are growing or lagging behind?
+- What kinds of education programs are most or least popular?
 
 ## Denmark, A Nation Getting Smarter (2008–2023)
 
@@ -36,7 +31,7 @@ We observe:
 
 This confirms that Denmark is becoming a more educated society overall — but this alone doesn’t reveal who is driving the growth, or where it’s happening.
 
-## 👩‍🎓 Gender Dynamics in Education: Women Take the Lead
+## Gender Dynamics in Education: Women Take the Lead
 
 While national education levels are rising, an even more important shift is happening within: **women are increasingly leading this growth**.
 
@@ -48,11 +43,7 @@ In 2008, men outnumbered women in Copenhagen's educated population. But by 2013,
 
 The right-hand plot shows that women now make up over **50.5%** of all educated individuals in Copenhagen. This may seem like a small shift, but it marks a **fundamental reversal** in historical education dynamics.
 
-> The gender gap in education hasn’t just closed — it’s reversed. And this change began in urban centers like Copenhagen.
-
----
-
-## 📍 Where You Live Matters: The Urban Education Advantage
+## Where You Live Matters: The Urban Education Advantage
 
 Copenhagen’s gender shift is part of a broader story — one that’s **regional as much as it is social**. If education is rising in Denmark, **where exactly is it rising fastest?**
 
@@ -68,11 +59,7 @@ Urban centers like Odense, Aalborg, and Frederiksberg follow, reinforcing a fami
 
 Interestingly, smaller municipalities like **Silkeborg and Horsens** also make the top 10, suggesting that **not all educational growth is confined to the largest metros**. These outliers hint at regional strategies or institutions driving local educational success.
 
-> Geography plays a powerful role in shaping opportunity. The map makes one thing clear: **Denmark’s educational success is not shared equally — and the gap is spatial as well as social**.
-
----
-
-## 🌍 The Other Side of the Map: Underserved Regions
+## The Other Side of the Map: Underserved Regions
 
 While our previous map showed where education is thriving, it’s equally important to highlight where it's lacking. **Inequality in education is geographic** — and stark.
 
@@ -86,13 +73,9 @@ These regions are mostly **small islands and rural municipalities**, like Christ
 
 Notably, even some **suburban or peri-urban** places like Dragør and Vallensbæk appear on this list — pointing to challenges beyond just isolation.
 
-> The Danish education story is not one of equal opportunity. While urban areas accumulate resources and retain talent, rural areas — especially the smallest — risk being left further behind.
-
 This disparity suggests the need for **targeted regional education policy**, investment in local institutions, and incentives to retain educated residents outside the major cities.
 
----
-
-## 🎓 What Are People Studying?
+## What Are People Studying?
 
 So far, we’ve seen **where** people are getting educated. But what about **what** they’re studying?
 
@@ -112,13 +95,10 @@ However, variation exists:
 - **Aarhus** and **Copenhagen** stand out for **PhD and advanced academic programs**, reflecting the location of major universities.
 - **Frederiksberg**, despite its size, shows high engagement in **social sciences and health programs**, which aligns with local institutional focus areas.
 
-> The takeaway: not all educated populations are the same. **Educational composition varies by region**, hinting at diverse economic bases and educational infrastructure.
-
 Next, we’ll explore how education types have evolved over time — and whether some programs are expanding while others fade away.
 
----
 
-## 🕰️ How Education Types Have Evolved Over Time
+## How Education Types Have Evolved Over Time
 
 After comparing what regions prioritize, we now zoom out to look at **national trends in education types** from 2008 to 2023.
 
@@ -137,9 +117,7 @@ Each line in the chart below represents a different type of education — from p
 
 Next, we explore how these shifts differ **by gender** — and whether women are driving particular types of education more than men.
 
----
-
-## 👩‍🎓👨‍🔧 Gender Differences Across Education Types
+##  Gender Differences Across Education Types
 
 We've seen how education programs have evolved over time — but who is filling those seats?
 
@@ -154,13 +132,9 @@ The chart below breaks down **male and female participation** across all educati
 - **Bachelor’s and Master’s programs** are more balanced, but even here women slightly outnumber men in most fields.
 - The biggest surprise? **PhD programs**, long male-dominated, are approaching parity — a promising sign of change in academia.
 
-> Gender may no longer limit access to education, but it still shapes the direction people take once inside the system.
-
 Next, we’ll explore how some of these categories have **grown or declined over time** — and whether the gender split is changing with them.
 
----
-
-## 🚀 Who's Driving Growth in Education?
+##  Who's Driving Growth in Education?
 
 We’ve seen the gender split in 2023 — but how did we get here?
 
@@ -175,11 +149,7 @@ This chart compares the **percentage growth** in each type of education from 200
 - Some types of education — like **short-cycle tertiary or certain youth education tracks** — show negative or flat growth, especially among men.
 - The gap in growth rate is most striking in higher education, where **women consistently outpace men by 30–50%** in relative terms.
 
-> Over 15 years, women haven’t just caught up — they’ve become the primary force behind Denmark’s education expansion, especially in urban and academic fields.
-
----
-
-## 🏆 The Most Popular Education Types for Each Gender
+## The Most Popular Education Types for Each Gender
 
 After comparing how education types have grown differently for men and women, we now take a closer look at **which specific programs dominate** for each gender — and how participation in them has changed over time.
 
@@ -193,11 +163,7 @@ The plots below highlight the **Top 5 education types** for men and women respec
 - **Women** lead strongly in **health**, **education**, and **social sciences** — with growing participation across all five categories.
 - For both sexes, the lines rise gradually, indicating consistent long-term growth — but **women’s lines rise more steeply**, echoing earlier observations about their leading role in education expansion.
 
-> These trajectories reinforce a broader societal pattern: while both men and women are becoming more educated, **they're still choosing very different educational paths**.
-
----
-
-## 🪙 The Other Side of the Spectrum: Bottom 5 Education Types
+## The Other Side of the Spectrum: Bottom 5 Education Types
 
 Just as some fields are surging, others are quietly falling behind.
 
@@ -213,9 +179,7 @@ To complete the picture, we examine the **bottom 5 education types** for men and
 
 These less popular programs aren’t necessarily less important — but they remain **culturally and economically gendered**, attracting far less participation despite nationwide progress in education access.
 
----
-
-## 🔮 What Comes Next? Forecasting Education in Copenhagen
+## What Comes Next? Forecasting Education in Copenhagen
 
 To complete our analysis, we used a simple linear regression model to **predict education trends in Copenhagen through 2030** — separately for men and women.
 
@@ -225,19 +189,13 @@ To complete our analysis, we used a simple linear regression model to **predict 
 - **Women maintain a consistent lead**, reinforcing the reversal we observed earlier: the gender gap hasn’t just closed — it has flipped.
 - The gap **slightly widens** by 2030, suggesting that unless intervention happens, **male participation may lag** further behind over time.
 
-> Machine learning isn't about certainty — it's about spotting trajectories. And here, the trajectory tells a story of continued progress — but also persistent imbalance.
-
----
-
-## 🧠 Final Reflection
+## Final Reflection
 
 This journey through Denmark’s education landscape has revealed a society that’s **growing smarter**, but not always **more equal**.
 
-- 🎓 Education is rising overall — especially in urban areas like Copenhagen
-- 👩‍🎓 Women now lead across most levels and types of education
-- 🛠️ Vocational and trade tracks are declining, especially among women
-- 🌍 Geography, gender, and program type all shape who gets educated — and how
+- Education is rising overall — especially in urban areas like Copenhagen
+- Women now lead across most levels and types of education
+- Vocational and trade tracks are declining, especially among women
+- Geography, gender, and program type all shape who gets educated — and how
 
 This final forecast reminds us that the trends we see today will shape the workforce, inequality, and opportunity in years to come.
-
-If Denmark wants a more balanced future, it must act not just on **access**, but on **inclusion**, **representation**, and **regional parity** in its education policies.33
