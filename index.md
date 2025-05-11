@@ -30,7 +30,7 @@ We begin by zooming in on the top 5 and bottom 5 municipalities in each of the t
 
 ### 💰 Income Trends Summary (2007–2023)
 
-![Combined Disposable Income Plot](path/to/income_plot.png) <!-- Replace with actual image path if needed -->
+<iframe src="income_trends_Men_and_Women.html" width="100%" height="700px" frameborder="0"></iframe>
 
 ####  Top Regions (e.g., Gentofte, Rudersdal, Hørsholm)
 - **Consistent Lead**: These municipalities have maintained a significantly higher level of combined disposable income over the entire period.
