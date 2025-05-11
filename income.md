@@ -4,16 +4,16 @@ title: Income
 permalink: /income.html
 ---
 
-# 🌍 Income Trends Across Denmark (2007–2023)
+#  Income Trends Across Denmark (2007–2023)
 ___
-💰 **Income isn’t just a number — it’s a reflection of opportunity, stability, and inequality.**  
+ **Income isn’t just a number — it’s a reflection of opportunity, stability, and inequality.**  
 In Denmark, where the welfare model aims for equity, regional and gender-based income gaps still tell a deeper story.
 
 On this page, we explore 17 years of income data (2007–2023) gathered from Statistics Denmark ([dst.dk/en](https://www.dst.dk/en)). The original dataset, labeled “Income Database,” was split into two subsets by gender — “Men” and “Women” — to allow for more focused analysis.This exploration aims to uncover:
 
-👨‍👩‍👧‍👦 **How income trends vary between men and women**  
-🗺️ **Which Danish regions are climbing — or falling — in terms of disposable income**  
-📈 **Where economic growth is accelerating — and where it’s stagnating**
+ **How income trends vary between men and women**  
+🗺 **Which Danish regions are climbing — or falling — in terms of disposable income**  
+ **Where economic growth is accelerating — and where it’s stagnating**
 
 Income data reveals how Denmark’s economic progress is being shared—or not—across its population, from metropolitan Copenhagen to rural Langeland.
 
@@ -49,7 +49,7 @@ Interestingly, Billund, which has historically ranked among the lower-income reg
 
 
 
-#  🏙️ Regional Income Disparities: Top vs. Bottom 5 Regions
+#   Regional Income Disparities: Top vs. Bottom 5 Regions
 ___
 The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK). The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposable and taxable income for men and women in 2023. The income is measured in Danish Kroner (DKK).
 
@@ -64,14 +64,14 @@ The graphs illustrate the top 5 and bottom 5 regions in Denmark based on disposa
 </div>
 
 
-### 🔝 **Top 5 Regions (First Chart)**
+###  **Top 5 Regions (First Chart)**
 
 - Regions such as Gentofte, Rudersdal, Billund, Hørsholm, and Lyngby-Taarbæk demonstrate the highest levels of male and female disposable and taxable income.
 - **Gentofte** stands out with the highest disposable income for both genders — nearing 700,000 DKK for men and over 500,000 DKK for women.
 - **Billund** shows a notable spike in men’s disposable income, suggesting a potential economic boom or demographic change.
 - While men’s taxable income generally exceeds women’s across these regions, the **income gap is most pronounced in Rudersdal and Hørsholm**.
 
-### 🔻 **Bottom 5 Regions (Second Chart)**
+###  **Bottom 5 Regions (Second Chart)**
 
 - Regions such as Langeland, Lolland, Albertslund, Bornholm, and Ærø display significantly lower income levels for both men and women.
 - Disposable income in these areas remains under 300,000 DKK for men and below 220,000 DKK for women.
@@ -84,7 +84,7 @@ These visualizations underscore the income inequality across Danish municipaliti
 
 
 
-## 💸 Growth in Men’s Disposable Income (2007–2023): Top 10 Regions
+##  Growth in Men’s Disposable Income (2007–2023): Top 10 Regions
 ___
 The bar chart titled "Top 10 Regions by Growth in Men Disposable Income (2007–2023)" illustrates the increase in disposable income for men across ten regions in Denmark over a 16-year period. The horizontal axis represents the income growth in Danish Kroner (DKK), while the vertical axis lists the regions.
 
@@ -92,7 +92,7 @@ The bar chart titled "Top 10 Regions by Growth in Men Disposable Income (2007–
 
 
 
-#### 🔍 Key Insights
+####  Key Insights
 
 - **Billund** tops the list with the most significant growth — men’s disposable income increased by more than 360,000 DKK, far exceeding other regions.
 - **Gentofte** and **Rudersdal** follow in second and third place, with income growth of approximately 310,000 DKK** and 270,000 DKK, respectively.
@@ -106,7 +106,7 @@ The dramatic lead by **Billund** may reflect localized economic developments —
 
 
 
-## 📈 Percentage Growth in Disposable Income: Top 10 Regions (2007–2023)
+##  Percentage Growth in Disposable Income: Top 10 Regions (2007–2023)
 ___
 
 ![image](https://github.com/user-attachments/assets/4f4e013d-87b0-4dd8-8edb-8f92c972ab42)
@@ -114,7 +114,7 @@ ___
 
 The bar chart titled **"Top 10 Regions by % Income Growth (2007–2023)"** shows the percentage increase in disposable income over time, allowing for a normalized comparison across regions regardless of starting income levels. The X-axis lists the top-performing regions, while the Y-axis represents the percentage growth in disposable income from 2007 to 2023.
 
-#### 🔍 Key Highlights
+####  Key Highlights
 
 - **Billund** stands out dramatically, with a percentage growth exceeding 180%, far surpassing all other regions. This suggests an extraordinary economic development or income surge** over the period.
 - **Gentofte** and **Rudersdal** follow with strong but significantly lower growth rates, around 80% and 75%, respectively.
@@ -125,7 +125,7 @@ This percentage-based perspective emphasizes not just the absolute income gains 
 
 
 
-## 💸 Compound Annual Growth Rate (CAGR) of Income for Men & Women
+##  Compound Annual Growth Rate (CAGR) of Income for Men & Women
 ___
 ![image](https://github.com/user-attachments/assets/b403b002-4015-4ab7-98f0-293c706a3b98)
 
@@ -176,7 +176,7 @@ ___
 
 The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** presents the disparity in disposable income between men and women in Copenhagen from **2007 to 2023**.
 
-### 📊 Key Observations
+###  Key Observations
 
 - **2007**: Gap started at around **20,000 DKK**.
 - **2009**: Narrowed to **~16,000 DKK**.
@@ -184,7 +184,7 @@ The graph titled **"Disposable Income Gap (Men - Women) in Copenhagen"** present
 - **2021**: Sharp rise to **~45,000 DKK**.
 - **2023**: Highest point, **~50,000 DKK**.
 
-### 📈 Interpretation
+###  Interpretation
 
 The gap in disposable income has **widened significantly** over the 17 years. Despite minor fluctuations, men’s disposable income has consistently outpaced women’s, highlighting growing income inequality in Copenhagen.
 
@@ -192,10 +192,10 @@ The gap in disposable income has **widened significantly** over the 17 years. De
 ## Final Reflection
 This deep dive into income trends across Denmark paints a picture of a nation where economic growth is visible, but not evenly shared.
 
-💰 **Income is rising overall** — particularly in wealthier urban regions like Copenhagen.  
-👨‍👩‍👧‍👦 **Men continue to earn more than women**, with significant disparities still visible in many regions.  
-📈 **Regions like Billund have seen rapid growth** in income, while others, like Langeland and Lolland, remain economically stagnant.  
-🌍 **Geography and gender play a significant role** in shaping who benefits from economic progress and who gets left behind.  
+ **Income is rising overall** — particularly in wealthier urban regions like Copenhagen.  
+ **Men continue to earn more than women**, with significant disparities still visible in many regions.  
+ **Regions like Billund have seen rapid growth** in income, while others, like Langeland and Lolland, remain economically stagnant.  
+ **Geography and gender play a significant role** in shaping who benefits from economic progress and who gets left behind.  
 
 As Denmark looks to the future, these trends will influence opportunities, inequalities, and social mobility for generations to come.
 
