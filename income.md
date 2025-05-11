@@ -37,7 +37,7 @@ A noticeable gender income gap exists across all regions, with men earning signi
 
 These patterns likely correlate with regional differences in education levels, crime rates, and employment opportunities. High-income regions may benefit from better schooling and lower crime, creating a more favorable economic environment. In contrast, persistent low income in some municipalities suggests structural disadvantages that limit economic mobility. These findings warrant deeper analysis using crime and education data to confirm such relationships and inform policy strategies for reducing inequality.
 </div>
-<iframe src="income_trends_Men_and_Women.html" width="120%" height="700px" frameborder="0"></iframe>
+<iframe src="income_trends_Men_and_Women.html" width="100%" height="700px" frameborder="0"></iframe>
 
 
 <div align="justify">
